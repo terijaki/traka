@@ -1,0 +1,29 @@
+html, body {
+  background: #ccc;
+  height: 100vh;
+}
+#wrapper {
+  width: 960px;
+  height: 100vh;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#header div.container {
+  background: #2c2e4c;
+  height: 100vh;
+  width: 170px;
+  position: fixed;
+  float: left;
+  display: block;
+  border-left: 2px #0f5c3c solid;
+  border-right: 2px #0f5c3c solid;
+}
+#main div.container {
+  background: #F9F4EF;
+  float: left;
+  min-height: 100vh;
+  width: 786px
+}
+#footer {
+  display: none;
+}
