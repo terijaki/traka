@@ -1,0 +1,45 @@
+name: "Traka FernSpähTrp"
+title: "Traditionskameradschaft Fernspähtruppe e.V."
+description: "Die Traditionskameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger ist eine Gemeinschaft, die parteipolitisch unabhängig fest auf dem Boden des Grundgesetzes steht und sich der Tradition deutschen Soldatentums verpflichtet weis."
+logo: '/img/traka_logo.png'
+favicon: '/img/trala_logo.png'
+include: ["_pages"]
+permalink: /:title/
+
+# Jekyll GitHub Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
+# Other
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    block:
+      line_numbers: true
+
+# Your website URL
+# Used for Sitemap.xml and your RSS feed
+url: https://traka-fernspaehtruppe.de
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

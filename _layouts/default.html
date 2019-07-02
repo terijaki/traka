@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {% include analytics.html %}
+  {% include meta.html %}
+  <!-- Favicons -->
+  <link href="/img/traka_site_icon.png" rel="icon">
+  <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet">
+</head>
 
+<body>
+
+<!--===== Header =====-->
+  <header id="header">
+    <div class="container">
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="/#mannschaften">Mannschaften</a></li>
+          <li><a href="/#verein">Verein</a></li>
+          <li><a href="/#news">News</a></li>
+          <li><a href="/#kontakt">Kontakt</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header>
+<!--===== #header =====-->
+
+  {{ content }}
+
+<!--===== Footer =====-->
+  <footer id="footer">
+    <div class="container">
+
+    </div>
+  </footer>
+<!--===== #footer =====-->
+</body>
+</html>

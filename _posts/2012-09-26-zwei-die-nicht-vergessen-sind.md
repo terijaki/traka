@@ -1,0 +1,24 @@
+---
+id: 1542
+title: Zwei, die nicht vergessen sind
+date: 2012-09-26T13:50:42+02:00
+
+layout: post
+
+permalink: /zwei-die-nicht-vergessen-sind/
+image: /upload/P8250172-1-940x198.jpg
+categories:
+  - Veranstaltungen
+tags:
+  - Arnim Kaserne Wetzlar
+  - Die Ungl
+  - Erwin Schernus
+  - Vor Ort
+  - Werner Sitter
+
+---
+Jürgen von der Heyde und Erwin Schernus gehörten zu den 12 Soldaten der FernspähKomp. 300 Herbornseelbach, die am 23.August 1977 auf der Lahn eine Notfallübung durchführte. Beide ertranken, als ihr Schlauchboot im reißenden Hochwasser kenterte. Bei den hohen Fluten hatten sie keine Chance. 35 Jahre später erinnerten Kameraden in einer kleinen Gedenkfeier an Jürgen von der Heyde und Erwin Schernus. Vor Ort am Ufer der Lahn mit dabei auch eine Abordung der "Sixt v. Arnim Kaserne" Wetzlar. Pfarrer Hans-Joachim Schäl sprach die Gedenkworte vor der Tafel, auf der die beiden Namen zu lesen sind. Die Unglücksstelle bei Kirschhofen wird von Werner Sitter seit vielen Jahren sorgsam gepflegt.
+<p style="text-align: center;"><a href="/upload/P8250172-1.jpg"><img class="wp-image-1543 aligncenter" src="/upload/P8250172-1-300x197.jpg" alt="" height="197" /></a><em></em></p>
+&nbsp;
+
+<em>Erika Müller</em>
