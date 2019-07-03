@@ -2,6 +2,17 @@
 layout: default
 ---
 
-<section id="pagecontent">
-  {{ content }}
-</section>
+<!--===== Page =====-->
+<section>
+  <div id="page">
+    <div class="container">
+      <article class="post">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+     </div>
+    </div>
+  </section>
+<!--===== #page =====-->
