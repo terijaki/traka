@@ -3,12 +3,12 @@ html, body {
   height: 100vh;
   padding: 0;
   margin: 0;
+  font-family: 'Droid Sans', arial, sans-serif;
 }
 #wrapper {
   width: 960px;
   height: 100vh;
   margin: 0 auto;
-  overflow: hidden;
 }
 #header div.container {
   background: #2c2e4c;
@@ -22,9 +22,9 @@ html, body {
 }
 #main div.container {
   background: #F9F4EF;
-  float: left;
   min-height: 100vh;
-  width: 786px
+  padding: 12px 24px 60px 24px;
+  margin: 0 0 0 172px;
 }
 #footer {
   display: none;
