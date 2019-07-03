@@ -29,3 +29,14 @@ html, body {
 #footer {
   display: none;
 }
+
+
+#nav ul li a {
+  color: #f7e811;
+}
+#nav ul li:hover a {
+  color: #fff;
+}
+#nav ul li:hover {
+  background: #0f5c3c;
+}
