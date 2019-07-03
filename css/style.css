@@ -37,6 +37,9 @@ html, body {
 #nav ul li:hover a {
   color: #fff;
 }
+#nav ul li.active {
+  background: #9a1918;
+}
 #nav ul li:hover {
   background: #0f5c3c;
 }
