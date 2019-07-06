@@ -30,17 +30,25 @@ html, body {
   display: none;
 }
 
-
-#nav ul li a {
+#nav-menu-container ul {
+  padding: 3px 5px 3px 16px;
+}
+#nav-menu-container ul li a {
   color: #f7e811;
 }
-#nav ul li:hover a {
+#nav-menu-container ul li:hover a {
   color: #fff;
 }
-#nav ul li.active {
+#nav-menu-container ul li {
+  background-position: bottom;
+  background-repeat: repeat-x;
+  line-height: 24px;
+  list-style: none;
+}
+#nav-menu-container ul li.active {
   background: #9a1918;
 }
-#nav ul li:hover {
+#nav-menu-container ul li:hover {
   background: #0f5c3c;
 }
 
