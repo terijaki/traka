@@ -22,7 +22,8 @@ html, body {
   border-left: 2px #0f5c3c solid;
   border-right: 2px #0f5c3c solid;
 }
-#header div.container::before{
+#header div.container::before {
+content: '';
   background: url(/img/traka_logo.png);
   height: 138px;
   width: 146px;
