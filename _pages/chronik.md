@@ -1,10 +1,7 @@
 ---
-id: 4
 title: Gründung der „Traditionskameradschaft Fernspähtruppe e.V. im BDF“
-date: 2010-12-10T07:29:40+02:00
-author: Björn Kohnen
+permalink: /chronik/
 layout: page
-guid: http://www.rss.traka-fernspaehtruppe.de/?page_id=4
 Seitentitel:
   - Chronik
 ---

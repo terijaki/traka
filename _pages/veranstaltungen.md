@@ -1,10 +1,7 @@
 ---
-id: 403
 title: Allgemeine Aktivitäten der Traditionskameradschaft Fernspähtruppe
-date: 2011-04-17T13:47:38+02:00
-author: Björn Kohnen
+permalink: /veranstaltungen/
 layout: page
-
 Seitentitel:
   - Veranstaltungen
 ---

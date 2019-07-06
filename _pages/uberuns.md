@@ -1,13 +1,9 @@
 ---
-id: 8
 title: Die Traditionskameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger
-date: 2010-12-10T07:33:49+02:00
-author: Björn Kohnen
+permalink: /ueberuns/
 layout: page
-guid: http://www.rss.traka-fernspaehtruppe.de/?page_id=8
 Seitentitel:
   - Über uns
-image: /upload/wappen.png
 ---
 ist eine Gemeinschaft, die parteipolitisch unabhängig fest auf dem Boden des Grundgesetzes steht und sich der Tradition deutschen Soldatentums verpflichtet weis.
 

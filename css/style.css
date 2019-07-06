@@ -43,3 +43,7 @@ html, body {
 #nav ul li:hover {
   background: #0f5c3c;
 }
+
+#intro .intro-text {
+  text-align: center;
+}

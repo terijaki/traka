@@ -1,10 +1,7 @@
 ---
-id: 291
 title: 'Monte Cassino &#8211; Was war damals geschehen?'
-date: 2011-04-17T09:52:14+02:00
-author: Björn Kohnen
+permalink: /montecassino/
 layout: page
-
 Seitentitel:
   - Monte Cassino
 ---

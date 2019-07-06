@@ -1,10 +1,7 @@
 ---
-id: 71
 title: Kontaktübersicht
-date: 2011-04-16T16:58:36+02:00
-author: Björn Kohnen
+permalink: /kontakt/
 layout: page
-
 Seitentitel:
   - Kontakt
 ---

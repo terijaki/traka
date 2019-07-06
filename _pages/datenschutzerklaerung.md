@@ -1,8 +1,7 @@
 ---
 id: 2503
 title: Datenschutzerklärung
-date: 2019-06-09T15:50:46+02:00
-author: Björn Kohnen
+permalink: /datenschutz/
 layout: page
 
 ---

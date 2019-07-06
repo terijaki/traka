@@ -1,10 +1,7 @@
 ---
-id: 67
 title: Traditionskameradschaft Fernspähtruppe e.V.
-date: 2011-04-16T16:51:18+02:00
-author: Björn Kohnen
+permalink: /impressum/
 layout: page
-
 Seitentitel:
   - Impressum
 ---
