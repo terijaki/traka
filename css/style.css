@@ -76,6 +76,17 @@ html, body {
   margin: 0px 0px 50px 0px;
   border-bottom: 1px dotted #4C4C4C;
 }
+#news .archive-link {
+  padding: 7px 13px;
+  background: #2c2e4c;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid #11593d;
+  border-radius: 5px;
+}
+#news .archive-link:hover {
+  background: #11593d;
+}
 /* --- Footer --- */
 #footer {
   display: none;
