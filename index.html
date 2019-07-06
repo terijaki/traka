@@ -13,17 +13,17 @@ layout: default
 </section>
 
 <!--===== News (Blog Posts) =====-->
-<section id="news" class="section-bg">
+<section id="news">
   <div class="container">
     <div class="row newsposts">
       {% for post in site.posts limit:5 %}
-      <div class="col-lg-12">
-        <div class="box wow fadeInLeft" onclick="location.href='{{ post.url }}';">
+      <div class="post">
+        <div class="box" onclick="location.href='{{ post.url }}';">
           {% if post.thumbnail %}
           <a class="thumbnail" href="{{ post.url }}"><div style="background-image:url({{ post.thumbnail }}), linear-gradient(rgba(54,59,64,0.9), rgba(54,98,115,0.9));"></div></a>
           {% endif %}
           <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
-          <p class="post-content">{{ post.content }}</p>
+          <div class="post-content">{{ post.content }}</div>
         </div>
       </div>
       {% endfor %}
