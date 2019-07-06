@@ -58,7 +58,7 @@ html, body {
 
 /* --- Main --- */
 
-#main div.main-wrapper-container {
+#main > div.container {
   background: #F9F4EF;
   min-height: 100vh;
   padding: 12px 24px 60px 24px;
