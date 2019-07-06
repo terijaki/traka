@@ -10,6 +10,8 @@ html, body {
   height: 100vh;
   margin: 0 auto;
 }
+
+/* --- Header --- */
 #header div.container {
   background: #2c2e4c;
   height: 100vh;
@@ -20,16 +22,14 @@ html, body {
   border-left: 2px #0f5c3c solid;
   border-right: 2px #0f5c3c solid;
 }
-#main div.container {
-  background: #F9F4EF;
-  min-height: 100vh;
-  padding: 12px 24px 60px 24px;
-  margin: 0 0 0 172px;
+#header div.container::before{
+  background: url(/img/traka_logo.png);
+  height: 138px;
+  width: 146px;
+  position: relative;
+  top: 0;
+  left: 0;
 }
-#footer {
-  display: none;
-}
-
 #nav-menu-container ul {
   padding: 3px 5px 3px 16px;
 }
@@ -52,6 +52,21 @@ html, body {
   background: #0f5c3c;
 }
 
+
+/* --- Main --- */
+
+#main div.container {
+  background: #F9F4EF;
+  min-height: 100vh;
+  padding: 12px 24px 60px 24px;
+  margin: 0 0 0 172px;
+}
 #intro .intro-text {
   text-align: center;
+}
+
+
+/* --- Footer --- */
+#footer {
+  display: none;
 }
