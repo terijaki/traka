@@ -6,7 +6,7 @@ date: 2011-04-17T16:27:58+02:00
 layout: post
 
 permalink: /teilnahme-in-pfullendorf-ein-bea-und-neue-mitglieder/
-image: /upload/0110-350x198.jpg
+thumbnail: /upload/0110-350x198.jpg
 categories:
   - Veranstaltungen
 tags:

@@ -6,7 +6,7 @@ date: 2013-06-04T12:33:01+02:00
 layout: post
 
 permalink: /einladung-zum-sommerfest-2013/
-image: /upload/2013/06/20130604-113111-940x198.jpg
+thumbnail: /upload/2013/06/20130604-113111-940x198.jpg
 categories:
   - Allgemeines
 tags:

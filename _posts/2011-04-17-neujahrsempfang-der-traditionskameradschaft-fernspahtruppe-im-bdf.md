@@ -6,7 +6,7 @@ date: 2011-04-17T18:16:20+02:00
 layout: post
 
 permalink: /neujahrsempfang-der-traditionskameradschaft-fernspahtruppe-im-bdf/
-image: /upload/0119-550x198.jpg
+thumbnail: /upload/0119-550x198.jpg
 categories:
   - Veranstaltungen
 tags:

@@ -6,7 +6,7 @@ date: 2014-08-31T11:19:29+02:00
 layout: post
 
 permalink: /traka-stammtisch-im-september/
-image: /upload/2014/08/Logo_gutshof_gross.png
+thumbnail: /upload/2014/08/Logo_gutshof_gross.png
 categories:
   - Allgemeines
 ---

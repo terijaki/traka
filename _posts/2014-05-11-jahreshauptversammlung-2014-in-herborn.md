@@ -6,7 +6,7 @@ date: 2014-05-11T20:14:34+02:00
 layout: post
 
 permalink: /jahreshauptversammlung-2014-in-herborn/
-image: /upload/2014/05/P1000266.jpg
+thumbnail: /upload/2014/05/P1000266.jpg
 categories:
   - Veranstaltungen
 tags:

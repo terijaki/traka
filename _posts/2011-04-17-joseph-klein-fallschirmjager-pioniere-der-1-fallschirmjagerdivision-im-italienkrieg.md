@@ -6,7 +6,7 @@ date: 2011-04-17T11:31:16+02:00
 layout: post
 
 permalink: /joseph-klein-fallschirmjager-pioniere-der-1-fallschirmjagerdivision-im-italienkrieg/
-image: /upload/buch01-450x198.jpg
+thumbnail: /upload/buch01-450x198.jpg
 categories:
   - Monte Cassino
 tags:

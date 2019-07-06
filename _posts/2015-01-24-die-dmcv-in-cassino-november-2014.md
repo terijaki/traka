@@ -6,7 +6,7 @@ date: 2015-01-24T16:59:28+02:00
 layout: post
 
 permalink: /die-dmcv-in-cassino-november-2014/
-image: /upload/2015/01/648.jpg
+thumbnail: /upload/2015/01/648.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

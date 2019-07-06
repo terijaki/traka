@@ -6,7 +6,7 @@ date: 2016-04-21T19:40:38+02:00
 layout: post
 
 permalink: /jahreshauptversammlung-2016/
-image: /upload/2016/04/P10007231-e1461260312325.jpg
+thumbnail: /upload/2016/04/P10007231-e1461260312325.jpg
 categories:
   - Veranstaltungen
 tags:

@@ -6,7 +6,7 @@ date: 2011-07-14T13:07:41+02:00
 layout: post
 
 permalink: /privates-denkmal-fur-die-gefallenen-enthullt/
-image: /upload/Sommerfest-2011-002-940x198.jpg
+thumbnail: /upload/Sommerfest-2011-002-940x198.jpg
 categories:
   - Presseartikel
 tags:

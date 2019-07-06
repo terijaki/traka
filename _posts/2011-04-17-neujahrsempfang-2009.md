@@ -6,7 +6,7 @@ date: 2011-04-17T17:29:53+02:00
 layout: post
 
 permalink: /neujahrsempfang-2009/
-image: /upload/0115-300x198.jpg
+thumbnail: /upload/0115-300x198.jpg
 categories:
   - Veranstaltungen
 tags:

@@ -6,7 +6,7 @@ date: 2011-04-17T09:06:15+02:00
 layout: post
 
 permalink: /ernst-krug-wurde-70-und-neuer-vorsitzender-der-mc-vereinigung/
-image: /upload/za0113-940x198.jpg
+thumbnail: /upload/za0113-940x198.jpg
 categories:
   - Monte Cassino
   - Presseartikel

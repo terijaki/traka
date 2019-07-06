@@ -6,7 +6,7 @@ date: 2011-04-17T15:58:52+02:00
 layout: post
 
 permalink: /ein-kreis-schliest-sich/
-image: /upload/018-400x198.jpg
+thumbnail: /upload/018-400x198.jpg
 categories:
   - Veranstaltungen
 tags:

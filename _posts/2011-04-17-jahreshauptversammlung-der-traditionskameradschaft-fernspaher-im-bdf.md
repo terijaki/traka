@@ -6,7 +6,7 @@ date: 2011-04-17T17:15:48+02:00
 layout: post
 
 permalink: /jahreshauptversammlung-der-traditionskameradschaft-fernspaher-im-bdf/
-image: /upload/0112-350x198.jpg
+thumbnail: /upload/0112-350x198.jpg
 categories:
   - Veranstaltungen
 tags:

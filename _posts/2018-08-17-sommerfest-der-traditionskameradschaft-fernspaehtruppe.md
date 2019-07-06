@@ -6,7 +6,7 @@ date: 2018-08-17T11:26:12+02:00
 layout: post
 
 permalink: /sommerfest-der-traditionskameradschaft-fernspaehtruppe/
-image: /upload/2018/08/01.jpg
+thumbnail: /upload/2018/08/01.jpg
 categories:
   - Allgemeines
   - Veranstaltungen

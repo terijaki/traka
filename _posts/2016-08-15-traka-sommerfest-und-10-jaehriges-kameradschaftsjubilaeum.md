@@ -6,7 +6,7 @@ date: 2016-08-15T11:23:58+02:00
 layout: post
 
 permalink: /traka-sommerfest-und-10-jaehriges-kameradschaftsjubilaeum/
-image: /upload/2016/08/sommerfest1.jpg
+thumbnail: /upload/2016/08/sommerfest1.jpg
 categories:
   - Veranstaltungen
 tags:

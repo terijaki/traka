@@ -6,7 +6,7 @@ date: 2011-11-26T09:26:21+02:00
 layout: post
 
 permalink: /die-traka-am-volkstrauertag-in-herborn/
-image: /upload/20111126-082559-480x198.jpg
+thumbnail: /upload/20111126-082559-480x198.jpg
 categories:
   - Veranstaltungen
 tags:

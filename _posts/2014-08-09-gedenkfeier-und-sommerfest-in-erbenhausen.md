@@ -6,7 +6,7 @@ date: 2014-08-09T21:58:45+02:00
 layout: post
 
 permalink: /gedenkfeier-und-sommerfest-in-erbenhausen/
-image: /upload/2014/08/P1000408.jpg
+thumbnail: /upload/2014/08/P1000408.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

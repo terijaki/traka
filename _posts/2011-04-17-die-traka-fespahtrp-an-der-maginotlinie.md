@@ -6,7 +6,7 @@ date: 2011-04-17T17:26:46+02:00
 layout: post
 
 permalink: /die-traka-fespahtrp-an-der-maginotlinie/
-image: /upload/0114-450x198.jpg
+thumbnail: /upload/0114-450x198.jpg
 categories:
   - Veranstaltungen
 tags:

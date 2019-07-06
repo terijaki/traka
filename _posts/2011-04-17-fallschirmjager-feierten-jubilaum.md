@@ -6,7 +6,7 @@ date: 2011-04-17T08:50:26+02:00
 layout: post
 
 permalink: /fallschirmjager-feierten-jubilaum/
-image: /upload/za0111-940x198.jpg
+thumbnail: /upload/za0111-940x198.jpg
 categories:
   - Presseartikel
 tags:

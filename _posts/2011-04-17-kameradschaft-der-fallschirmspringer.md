@@ -6,7 +6,7 @@ date: 2011-04-17T08:38:26+02:00
 layout: post
 
 permalink: /kameradschaft-der-fallschirmspringer/
-image: /upload/za013-408x198.jpg
+thumbnail: /upload/za013-408x198.jpg
 categories:
   - Presseartikel
 tags:

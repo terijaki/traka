@@ -6,7 +6,7 @@ date: 2011-04-17T09:08:11+02:00
 layout: post
 
 permalink: /der-kameraden-gedacht/
-image: /upload/za0114-940x198.jpg
+thumbnail: /upload/za0114-940x198.jpg
 categories:
   - Presseartikel
   - Veranstaltungen

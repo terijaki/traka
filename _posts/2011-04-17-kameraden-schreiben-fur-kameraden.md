@@ -6,7 +6,7 @@ date: 2011-04-17T09:13:52+02:00
 layout: post
 
 permalink: /kameraden-schreiben-fur-kameraden/
-image: /upload/012-940x198.jpg
+thumbnail: /upload/012-940x198.jpg
 categories:
   - Presseartikel
 tags:

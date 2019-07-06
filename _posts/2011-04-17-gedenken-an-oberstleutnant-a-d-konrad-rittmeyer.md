@@ -6,7 +6,7 @@ date: 2011-04-17T17:32:25+02:00
 layout: post
 
 permalink: /gedenken-an-oberstleutnant-a-d-konrad-rittmeyer/
-image: /upload/0116-450x198.jpg
+thumbnail: /upload/0116-450x198.jpg
 categories:
   - Veranstaltungen
 tags:

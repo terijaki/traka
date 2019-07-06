@@ -6,7 +6,7 @@ date: 2018-01-03T19:56:42+02:00
 layout: post
 
 permalink: /sommerfest-der-traka-fernspaeher-fespaeh-am-15-07-2017-in-erbenhausen/
-image: /upload/2017/12/IMG-20170907-WA0003.jpg
+thumbnail: /upload/2017/12/IMG-20170907-WA0003.jpg
 categories:
   - Allgemeines
   - Veranstaltungen

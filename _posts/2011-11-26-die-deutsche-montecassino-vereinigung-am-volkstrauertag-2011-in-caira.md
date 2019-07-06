@@ -6,7 +6,7 @@ date: 2011-11-26T09:31:37+02:00
 layout: post
 
 permalink: /die-deutsche-montecassino-vereinigung-am-volkstrauertag-2011-in-caira/
-image: /upload/20111126-083023-723x198.jpg
+thumbnail: /upload/20111126-083023-723x198.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

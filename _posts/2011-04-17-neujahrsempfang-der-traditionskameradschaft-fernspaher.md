@@ -6,7 +6,7 @@ date: 2011-04-17T17:10:22+02:00
 layout: post
 
 permalink: /neujahrsempfang-der-traditionskameradschaft-fernspaher/
-image: /upload/0111-400x198.jpg
+thumbnail: /upload/0111-400x198.jpg
 categories:
   - Veranstaltungen
 tags:

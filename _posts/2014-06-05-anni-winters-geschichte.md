@@ -6,7 +6,7 @@ date: 2014-06-05T19:15:24+02:00
 layout: post
 
 permalink: /anni-winters-geschichte/
-image: /upload/2014/06/P1000365.jpg
+thumbnail: /upload/2014/06/P1000365.jpg
 categories:
   - Monte Cassino
 tags:

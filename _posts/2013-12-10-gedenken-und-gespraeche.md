@@ -6,7 +6,7 @@ date: 2013-12-10T21:35:14+02:00
 layout: post
 
 permalink: /gedenken-und-gespraeche/
-image: /upload/2013/12/002.jpg
+thumbnail: /upload/2013/12/002.jpg
 categories:
   - Monte Cassino
 tags:

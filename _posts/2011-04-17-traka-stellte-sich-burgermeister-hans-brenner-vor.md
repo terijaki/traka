@@ -6,7 +6,7 @@ date: 2011-04-17T08:37:15+02:00
 layout: post
 
 permalink: /traka-stellte-sich-burgermeister-hans-brenner-vor/
-image: /upload/za012-940x198.jpg
+thumbnail: /upload/za012-940x198.jpg
 categories:
   - Presseartikel
 tags:

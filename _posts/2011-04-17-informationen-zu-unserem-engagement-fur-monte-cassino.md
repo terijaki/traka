@@ -6,7 +6,7 @@ date: 2011-04-17T11:50:00+02:00
 layout: post
 
 permalink: /informationen-zu-unserem-engagement-fur-monte-cassino/
-image: /upload/015-400x198.jpg
+thumbnail: /upload/015-400x198.jpg
 categories:
   - Monte Cassino
 tags:

@@ -6,7 +6,7 @@ date: 2018-04-10T19:15:56+02:00
 layout: post
 
 permalink: /bericht-zur-jahreshauptversammlung-der-traditionskameradschaft-fernspaehtruppe-e-v-im-bdf-vom-24-03-2018/
-image: /upload/2018/04/P3240014.jpg
+thumbnail: /upload/2018/04/P3240014.jpg
 categories:
   - Allgemeines
   - Veranstaltungen

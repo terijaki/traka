@@ -6,7 +6,7 @@ date: 2011-07-14T11:12:59+02:00
 layout: post
 
 permalink: /mahnung-aussohnung-und-volkerverstandigung-als-ziel/
-image: /upload/Sommerfest-2011-2-940x198.jpg
+thumbnail: /upload/Sommerfest-2011-2-940x198.jpg
 categories:
   - Presseartikel
 tags:

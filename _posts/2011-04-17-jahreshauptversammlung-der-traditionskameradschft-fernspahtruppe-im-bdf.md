@@ -6,7 +6,7 @@ date: 2011-04-17T18:18:03+02:00
 layout: post
 
 permalink: /jahreshauptversammlung-der-traditionskameradschft-fernspahtruppe-im-bdf/
-image: /upload/0120-550x198.jpg
+thumbnail: /upload/0120-550x198.jpg
 categories:
   - Veranstaltungen
 tags:

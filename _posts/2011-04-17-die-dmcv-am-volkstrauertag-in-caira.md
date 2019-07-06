@@ -6,7 +6,7 @@ date: 2011-04-17T18:24:37+02:00
 layout: post
 
 permalink: /die-dmcv-am-volkstrauertag-in-caira/
-image: /upload/0123-780x198.jpg
+thumbnail: /upload/0123-780x198.jpg
 categories:
   - Veranstaltungen
 tags:

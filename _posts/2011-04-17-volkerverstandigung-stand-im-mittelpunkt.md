@@ -6,7 +6,7 @@ date: 2011-04-17T09:11:14+02:00
 layout: post
 
 permalink: /volkerverstandigung-stand-im-mittelpunkt/
-image: /upload/011-940x198.jpg
+thumbnail: /upload/011-940x198.jpg
 categories:
   - Presseartikel
 tags:

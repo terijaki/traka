@@ -6,7 +6,7 @@ date: 2012-09-26T13:50:42+02:00
 layout: post
 
 permalink: /zwei-die-nicht-vergessen-sind/
-image: /upload/P8250172-1-940x198.jpg
+thumbnail: /upload/P8250172-1-940x198.jpg
 categories:
   - Veranstaltungen
 tags:

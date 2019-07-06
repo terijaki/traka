@@ -6,7 +6,7 @@ date: 2011-04-17T12:15:35+02:00
 layout: post
 
 permalink: /volkstrauertag-2009-in-monte-cassino/
-image: /upload/051-470x198.jpg
+thumbnail: /upload/051-470x198.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

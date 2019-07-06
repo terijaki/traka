@@ -6,7 +6,7 @@ date: 2011-04-17T18:20:02+02:00
 layout: post
 
 permalink: /die-traditionskameradschaft-fernspahtruppe-im-bdf-beim-21-sturmregimentstreffen-in-lich/
-image: /upload/0121-550x198.jpg
+thumbnail: /upload/0121-550x198.jpg
 categories:
   - Veranstaltungen
 tags:

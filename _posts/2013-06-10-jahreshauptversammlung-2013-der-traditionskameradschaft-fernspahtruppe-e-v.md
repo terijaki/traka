@@ -6,7 +6,7 @@ date: 2013-06-10T11:05:53+02:00
 layout: post
 
 permalink: /jahreshauptversammlung-2013-der-traditionskameradschaft-fernspahtruppe-e-v/
-image: /upload/2013/06/P1000066.jpg
+thumbnail: /upload/2013/06/P1000066.jpg
 categories:
   - Veranstaltungen
 tags:

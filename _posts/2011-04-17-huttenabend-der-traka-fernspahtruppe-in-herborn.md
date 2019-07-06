@@ -6,7 +6,7 @@ date: 2011-04-17T16:25:13+02:00
 layout: post
 
 permalink: /huttenabend-der-traka-fernspahtruppe-in-herborn/
-image: /upload/019-400x198.jpg
+thumbnail: /upload/019-400x198.jpg
 categories:
   - Veranstaltungen
 tags:

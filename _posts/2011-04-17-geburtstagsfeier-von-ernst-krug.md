@@ -6,7 +6,7 @@ date: 2011-04-17T09:03:49+02:00
 layout: post
 
 permalink: /geburtstagsfeier-von-ernst-krug/
-image: /upload/za0112-940x198.jpg
+thumbnail: /upload/za0112-940x198.jpg
 categories:
   - Presseartikel
   - Veranstaltungen

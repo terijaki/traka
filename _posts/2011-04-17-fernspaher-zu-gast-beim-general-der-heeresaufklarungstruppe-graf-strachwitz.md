@@ -6,7 +6,7 @@ date: 2011-04-17T18:23:28+02:00
 layout: post
 
 permalink: /fernspaher-zu-gast-beim-general-der-heeresaufklarungstruppe-graf-strachwitz/
-image: /upload/0122-780x198.jpg
+thumbnail: /upload/0122-780x198.jpg
 categories:
   - Veranstaltungen
 tags:

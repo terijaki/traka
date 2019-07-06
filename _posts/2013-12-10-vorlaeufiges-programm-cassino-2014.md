@@ -6,7 +6,7 @@ date: 2013-12-10T21:52:40+02:00
 layout: post
 
 permalink: /vorlaeufiges-programm-cassino-2014/
-image: /upload/2013/12/IMG_0087.jpg
+thumbnail: /upload/2013/12/IMG_0087.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

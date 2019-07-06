@@ -8,7 +8,7 @@ layout: post
 permalink: /modell-monte-cassino-das-verdun-des-2-weltkrieges/
 dsq_thread_id:
   - "333394951"
-image: /upload/model01-800x198.jpg
+thumbnail: /upload/model01-800x198.jpg
 categories:
   - Monte Cassino
 tags:

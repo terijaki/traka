@@ -6,7 +6,7 @@ date: 2011-04-17T09:16:42+02:00
 layout: post
 
 permalink: /gedenken-an-tote-soldaten/
-image: /upload/014-940x198.jpg
+thumbnail: /upload/014-940x198.jpg
 categories:
   - Presseartikel
 tags:

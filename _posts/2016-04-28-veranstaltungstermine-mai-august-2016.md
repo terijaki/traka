@@ -6,7 +6,7 @@ date: 2016-04-28T01:09:54+02:00
 layout: post
 
 permalink: /veranstaltungstermine-mai-august-2016/
-image: /upload/2016/04/lageplan.jpg
+thumbnail: /upload/2016/04/lageplan.jpg
 categories:
   - Allgemeines
 tags:

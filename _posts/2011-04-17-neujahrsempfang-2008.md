@@ -6,7 +6,7 @@ date: 2011-04-17T08:46:08+02:00
 layout: post
 
 permalink: /neujahrsempfang-2008/
-image: /upload/za017-940x198.jpg
+thumbnail: /upload/za017-940x198.jpg
 categories:
   - Presseartikel
 tags:

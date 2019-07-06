@@ -6,7 +6,7 @@ date: 2018-09-20T10:30:35+02:00
 layout: post
 
 permalink: /ausflug-an-den-hartmannsweiler-kopf/
-image: /upload/2018/09/HWK.jpg
+thumbnail: /upload/2018/09/HWK.jpg
 categories:
   - Allgemeines
 tags:

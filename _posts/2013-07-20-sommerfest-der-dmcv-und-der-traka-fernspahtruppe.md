@@ -6,7 +6,7 @@ date: 2013-07-20T12:44:55+02:00
 layout: post
 
 permalink: /sommerfest-der-dmcv-und-der-traka-fernspahtruppe/
-image: /upload/2013/07/P1000149.jpg
+thumbnail: /upload/2013/07/P1000149.jpg
 categories:
   - Veranstaltungen
 tags:

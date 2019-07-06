@@ -6,7 +6,7 @@ date: 2018-05-09T15:38:20+02:00
 layout: post
 
 permalink: /gebet-unter-feindlichem-feuer/
-image: /upload/2018/05/karte.jpg
+thumbnail: /upload/2018/05/karte.jpg
 categories:
   - Allgemeines
   - Presseartikel

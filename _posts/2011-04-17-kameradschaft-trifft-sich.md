@@ -6,7 +6,7 @@ date: 2011-04-17T08:49:06+02:00
 layout: post
 
 permalink: /kameradschaft-trifft-sich/
-image: /upload/za0110-940x198.jpg
+thumbnail: /upload/za0110-940x198.jpg
 categories:
   - Presseartikel
 tags:

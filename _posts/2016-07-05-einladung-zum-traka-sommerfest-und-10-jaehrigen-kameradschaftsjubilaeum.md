@@ -6,7 +6,7 @@ date: 2016-07-05T20:10:26+02:00
 layout: post
 
 permalink: /einladung-zum-traka-sommerfest-und-10-jaehrigen-kameradschaftsjubilaeum/
-image: /upload/2016/07/pdficon.png
+thumbnail: /upload/2016/07/pdficon.png
 categories:
   - Allgemeines
 tags:

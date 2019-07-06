@@ -6,7 +6,7 @@ date: 2011-04-17T08:40:43+02:00
 layout: post
 
 permalink: /traka-gedachte-der-toten/
-image: /upload/za014-940x198.jpg
+thumbnail: /upload/za014-940x198.jpg
 categories:
   - Presseartikel
 tags:

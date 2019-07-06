@@ -6,7 +6,7 @@ date: 2011-04-17T08:31:16+02:00
 layout: post
 
 permalink: /grundung-der-traditionskameradschaft-fernspahtruppe-e-v-im-bdf/
-image: /upload/01-594x198.jpg
+thumbnail: /upload/01-594x198.jpg
 categories:
   - Presseartikel
 tags:

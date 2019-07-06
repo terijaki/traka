@@ -6,7 +6,7 @@ date: 2011-04-17T17:19:40+02:00
 layout: post
 
 permalink: /die-traditionskameradschaft-fernspahtruppee-v-im-bdf-am-volkstrauertag-2008/
-image: /upload/0113-350x198.jpg
+thumbnail: /upload/0113-350x198.jpg
 categories:
   - Veranstaltungen
 tags:

@@ -6,7 +6,7 @@ date: 2011-04-17T11:52:37+02:00
 layout: post
 
 permalink: /gedenkfeiern-monte-cassino-2009/
-image: /upload/016-400x198.jpg
+thumbnail: /upload/016-400x198.jpg
 categories:
   - Monte Cassino
   - Veranstaltungen

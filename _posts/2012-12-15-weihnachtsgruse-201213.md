@@ -6,7 +6,7 @@ date: 2012-12-15T11:06:11+02:00
 layout: post
 
 permalink: /weihnachtsgruse-201213/
-image: /upload/2012-12-11Weihnachtsgr-297x198.jpg
+thumbnail: /upload/2012-12-11Weihnachtsgr-297x198.jpg
 categories:
   - Allgemeines
 tags:
