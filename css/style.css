@@ -73,9 +73,25 @@ body {
   padding: 12px 70px 60px 70px;
   margin: 0 0 0 172px;
   font-size: 1.4rem;
+  color: #4c4c4c;
 }
 #main .container img {
     max-width: 100%;
+}
+#main a {
+  color: #74c126;
+  text-decoration: none;
+}
+#main a:hover {
+  text-decoration: underline;
+}
+#main h4 a {
+  color: #4c4c4c;
+  text-decoration: none;
+}
+#main h4 a:hover {
+  color: #74c126;
+  text-decoration: none;
 }
 #intro .intro-text {
   text-align: center;
