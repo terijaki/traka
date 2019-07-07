@@ -118,10 +118,11 @@ body {
 #intro .intro-text {
   text-align: center;
   border-bottom: 1px dotted #4C4C4C;
+  margin-bottom: 25px;
 }
 #news .post {
   padding: 0px 0px 1px 0px;
-  margin: 0px 0px 50px 0px;
+  margin: 25px 0px;
   border-bottom: 1px dotted #4C4C4C;
   font-size: 1.4rem;
 }
