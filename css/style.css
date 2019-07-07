@@ -71,6 +71,7 @@ body {
 }
 #header .social-icons {
   text-align: center;
+  padding: 20px 0;
 }
 #header .social-icons a {
   color: #fff;
