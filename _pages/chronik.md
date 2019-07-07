@@ -2,7 +2,6 @@
 title: Gründung der „Traditionskameradschaft Fernspähtruppe e.V. im BDF“
 permalink: '/chronik/'
 layout: page
-Seitentitel: Chronik
 ---
 Am 08.04.2006 wurde in Homberg/Ohm, OT Erbenhausen, die neue „Traditionskameradschaft Fernspähtruppe e.V. im BDF“ gegründet. An der Gründungsversammlung nahmen 22 von 49 Gründungsmitgliedern teil.
 
