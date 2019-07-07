@@ -21,9 +21,8 @@ jekyll-archives:
     - tags
   layout: archive
   permalinks:
-    categories: '/c/:name/'
-    category: '/ca/:name/'
-    tags: '/tag/:name/'
+    category: '/c/:name/'
+    tag: '/tag/:name/'
 
 # Other
 markdown: kramdown
