@@ -22,6 +22,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     categories: '/:name/'
+    category: '/:name/'
     tags: '/tag/:name/'
 
 # Other
