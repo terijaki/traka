@@ -133,11 +133,11 @@ body {
 }
 #news .thumbnail div {
     background-position: center;
+    background-size: cover;
     width: 50%;
     height: 16vh;
     max-height: 140px;
     display: block;
-    float: left;
     margin: 0 10px 10px 0;
 }
 #news .archive-link {
