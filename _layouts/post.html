@@ -9,7 +9,7 @@ layout: default
       <article class="post">
         <h3 class="post-title">{{ page.title }}</h3>
         <span class="post-text">{{ page.date | date: "%d.%m.%Y" }}</span>
-        <img class="post-thumbnail" src="{{ page.thumbnail }}" alt="">
+        {% if page.thumbnail %}<a href="{{ page.thumbnail }}"><img class="post-thumbnail" src="{{ page.thumbnail }}" alt=""></a>{% endif %}
         <div class="post-content">
           {{ content }}
         </div>
