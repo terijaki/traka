@@ -5,7 +5,7 @@ logo: '/img/traka_logo.png'
 favicon: '/img/traka_site_icon.png'
 include: ["_pages"]
 permalink: /:title/
-url: https://new.traka-fernspaehtruppe.de
+url: https://traka-fernspaehtruppe.de
 
 # Jekyll GitHub Plugins
 plugins:
