@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Aktivitäten der Traditionskameradschaft Fernspähtruppe
-permalink: /veranstaltungen/
+permalink: '/veranstaltungen/'
 layout: page
 Seitentitel:
   - Veranstaltungen

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datenschutzerklärung
-permalink: /datenschutz/
+permalink: '/datenschutz/'
 ---
 
 <h1>Grundlegendes</h1>

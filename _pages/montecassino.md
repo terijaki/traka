@@ -1,6 +1,6 @@
 ---
 title: 'Monte Cassino &#8211; Was war damals geschehen?'
-permalink: /montecassino/
+permalink: '/montecassino/'
 layout: page
 Seitentitel:
   - Monte Cassino

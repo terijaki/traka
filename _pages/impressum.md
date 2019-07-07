@@ -1,6 +1,6 @@
 ---
 title: Traditionskameradschaft Fernspähtruppe e.V.
-permalink: /impressum/
+permalink: '/impressum/'
 layout: page
 Seitentitel:
   - Impressum

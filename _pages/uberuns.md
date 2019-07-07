@@ -1,6 +1,6 @@
 ---
 title: Die Traditionskameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger
-permalink: /ueberuns/
+permalink: '/ueberuns/'
 layout: page
 Seitentitel:
   - Über uns

@@ -1,6 +1,6 @@
 ---
 title: Gründung der „Traditionskameradschaft Fernspähtruppe e.V. im BDF“
-permalink: /chronik/
+permalink: '/chronik/'
 layout: page
 Seitentitel: Chronik
 ---

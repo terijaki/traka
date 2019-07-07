@@ -1,6 +1,6 @@
 ---
 title: Kontaktübersicht
-permalink: /kontakt/
+permalink: '/kontakt/'
 layout: page
 Seitentitel:
   - Kontakt
