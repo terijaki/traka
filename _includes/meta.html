@@ -1,0 +1,24 @@
+<title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+<meta charset="utf-8">
+<meta name="language" content="de">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ site.description }}">
+<meta name="keywords" content="Monte Cassino, Ernst Krug, TraKa, Fernspäher, Fallschirmjäger,">
+
+<meta property="og:site_name" content="{{ site.title }}">
+
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.excerpt | strip_html }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+{% endif %}
+
+{% if page.thumbnail %}
+<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">
+<meta name="twitter:image" content="{{ page.thumbnail | absolute_url }}">
+{% else %}
+<meta property="og:image" content="{{ site.url }}/img/traka_logo.png">
+<meta name="twitter:image" content="{{ site.url }}/img/traka_logo.png">
+{% endif %}
+
+<meta name="twitter:card" content="summary_large_image">
