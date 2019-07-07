@@ -116,6 +116,7 @@ body {
 }
 #intro .intro-text {
   text-align: center;
+  border-bottom: 1px dotted #4C4C4C;
 }
 #news .post {
   padding: 0px 0px 1px 0px;
