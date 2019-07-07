@@ -2,7 +2,7 @@ name: "Traka FernSpähTrp"
 title: "Traditionskameradschaft Fernspähtruppe e.V."
 description: "Die Traditionskameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger ist eine Gemeinschaft, die parteipolitisch unabhängig fest auf dem Boden des Grundgesetzes steht und sich der Tradition deutschen Soldatentums verpflichtet weis."
 logo: '/img/traka_logo.png'
-favicon: '/img/trala_logo.png'
+favicon: '/img/traka_site_icon.png'
 include: ["_pages"]
 permalink: /:title/
 url: https://traka-fernspaehtruppe.de
