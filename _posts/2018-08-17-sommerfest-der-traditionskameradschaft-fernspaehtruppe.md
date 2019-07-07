@@ -1,15 +1,9 @@
 ---
-
 title: Sommerfest der Traditionskameradschaft Fernspähtruppe
-
-
 layout: post
-
 permalink: /sommerfest-der-traditionskameradschaft-fernspaehtruppe/
 thumbnail: /upload/2018/08/01.jpg
-category:
-  - Allgemeines
-  - Veranstaltungen
+category: Veranstaltungen
 tags:
   - Sommerfest
   - Traditionskameradschaft Fernsp
