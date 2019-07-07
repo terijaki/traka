@@ -10,6 +10,6 @@ Aus Deutschland kümmert sich die Deutsche Monte Cassino Vereinigung ( DMCV) um 
 
 &nbsp;
 
-<strong>Beiträge</strong>: <a href="http://traka-fernspaehtruppe.de/?cat=7">Monte Cassino</a>
+**Beiträge**: <a href="/montecassino-artikel/">Monte Cassino</a>
 
 &nbsp;
