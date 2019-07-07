@@ -132,11 +132,10 @@ body {
   text-decoration: none;
 }
 #news .thumbnail {
-    width: 50%;
+    width: 80%;
     height: 16vh;
     max-height: 140px;
     display: inline-block;
-    margin: 0 10px 10px 0;
     overflow: hidden;
 }
 #news .thumbnail div {
