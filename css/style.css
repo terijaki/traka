@@ -109,7 +109,10 @@ body {
   font-size: 2rem;
   text-decoration: none;
 }
-#news .archive-link {
+#news .archive-link a {
+  text-align: center;
+}
+#news .archive-link a {
   padding: 7px 13px;
   background: #2c2e4c;
   color: #fff;
@@ -117,8 +120,12 @@ body {
   border: 1px solid #11593d;
   border-radius: 5px;
 }
-#news .archive-link:hover {
+#news .archive-link a:hover {
   background: #11593d;
+  text-decoration: none;
+}
+#page .post-title {
+    font-size: 2.4rem;
 }
 /* --- Footer --- */
 #footer {
