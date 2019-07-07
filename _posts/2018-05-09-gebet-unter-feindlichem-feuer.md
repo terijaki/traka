@@ -1,15 +1,10 @@
 ---
-
 title: Gebet unter Feindlichem Feuer
-
-
 layout: post
-
 permalink: /gebet-unter-feindlichem-feuer/
 thumbnail: /upload/2018/05/karte.jpg
 category:
   - Allgemeines
-  - Presseartikel
 tags:
   - Bei Tagesanbruch
   - Die Karte
@@ -27,12 +22,14 @@ Sheila Wurr's Vater Company Sergeant Major Victor James Twist war Soldat des 156
 
 Bei einer der Veranstaltungen der „Arnhem Fellowship“ lernte ich David Pott kennen, den Sohn von Major Robert Laslett John Pott, der kommandierender Offizier der A Kompanie des 156 Bataillon war. In einem Gespräch berichtete mir David Pott von den Erlebnissen seines Vaters und seiner Einheit während Market Garden.
 
-Von diesen Erlebnisse möchte ich hier berichten. Dafür standen mir persönliche Berichte der Familie, öffentliche Berichte unter <a href="http://www.pegasusarchive.org/arnhem/john_pott.htm" target="_blank" rel="noopener">http://www.pegasusarchive.org/arnhem/john_pott.htm</a> und das Buch „ARNHEM 156 PARACHUTE BTN &amp; 4th Parachute BDE“ von John O'Reilly zur Verfügung. Die abgebildete Karte von Oosterbeek stammt ebenfalls aus diesem Buch, mit freundlicher Genehmigung von John O'Reilly.
+Von diesen Erlebnisse möchte ich hier berichten. Dafür standen mir persönliche Berichte der Familie, öffentliche Berichte unter ![http://www.pegasusarchive.org/arnhem/john_pott.htm](http://www.pegasusarchive.org/arnhem/john_pott.htm) und das Buch „ARNHEM 156 PARACHUTE BTN &amp; 4th Parachute BDE“ von John O'Reilly zur Verfügung. Die abgebildete Karte von Oosterbeek stammt ebenfalls aus diesem Buch, mit freundlicher Genehmigung von John O'Reilly.
 
 Im Sommer 1944 befinden sich die deutschen Armeen an alle Fronten auf dem Rückzug.
 Mit der Operation Market Garden wollen die West-Alliierten durch Holland hindurch auf deutschen Boden vorstoßen, um den Krieg noch im selben Jahr zu beenden. Jedoch sind ihre Annahmen über Position, Stärke und Zustand der deutschen Truppen in der Gegend von Arnheim zu ungenau und zu optimistisch, eine umfassende Feindaufklärung wird vernachlässigt. Auf eine Berücksichtigung von Informationen holländischer Militär-Experten wurde verzichtet. Die britischen Soldaten wissen nicht, was sie erwartet. Die 1. Britische Luftlande-Division soll die Speerspitze des Unternehmens übernehmen und die Rhein-Brücke bei Arnheim von deutschen Kräften befreien und bis zum Eintreffen der eigenen nachrückenden Kräfte halten.
 
-<a href="/upload/2018/05/bild1.jpg"><img class="alignright wp-image-2369" src="/upload/2018/05/bild1-176x300.jpg" alt="" width="176" height="300" /></a>Aus den Berichten von Major John Pott:
+![/upload/2018/05/bild1-176x300.jpg](/upload/2018/05/bild1.jpg)
+
+Aus den Berichten von Major John Pott:
 Am Montag, den 18. September wurde das 156. Bataillon am frühen Nachmittag auf der Ginkel Heide abgesetzt. Die Männer gerieten dabei unter Beschuss von SS Einheiten. Es kam zu Verlusten schon beim Absprung aus den Flugzeugen, in der Landezone, die mit Gewehr und MG-Feuer eingedeckt wurde und bei Landungen in Bäumen, sowie im Bereich der deutschen Stellungen. Die Hälfte des MG-Zuges des Bataillons wurde bereits in der Nähe von Nimwegen mit ihrem Flugzeug abgeschossen.
 
 Die A-Kompanie von Major Pott hatte bis dahin glücklicherweise keine Verluste zu verzeichnen.
@@ -44,7 +41,8 @@ Sobald dieses Ziel erreicht war, sollte das 156 Bataillon zur 1. Parachute Briga
 
 Die Karte stellt die Lage am Dienstag, den 19. September 1944 bei Oosterbeek dar:
 
-<a href="/upload/2018/05/karte.jpg"><img class="aligncenter wp-image-2370 size-large" src="/upload/2018/05/karte-1024x927.jpg" alt="" height="407" /></a>
+![/upload/2018/05/karte.jpg](/upload/2018/05/karte.jpg)
+
 
 Lt. Co. des Voeux wählte die A-Kompanie von John Pott aus, den Angriff anzuführen.
 Der „Koeppel“ liegt in der Nähe des Dreijenseweg, der auf eine Hauptstraße nach Arnheim führt.
