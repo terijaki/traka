@@ -2,8 +2,6 @@
 title: Die Traditionskameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger
 permalink: '/ueberuns/'
 layout: page
-Seitentitel:
-  - Über uns
 ---
 ist eine Gemeinschaft, die parteipolitisch unabhängig fest auf dem Boden des Grundgesetzes steht und sich der Tradition deutschen Soldatentums verpflichtet weis.
 

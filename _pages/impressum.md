@@ -2,8 +2,6 @@
 title: Traditionskameradschaft Fernspähtruppe e.V.
 permalink: '/impressum/'
 layout: page
-Seitentitel:
-  - Impressum
 ---
 <p><strong>Betreiber der Website / Vereinsname:</strong><br />Traditionskameradschaft Fernspähtruppe e.V.</p>
 <p><strong>Vereinssitz:</strong><br />Traditionskameradschaft Fernspähtruppe e.V.<br />Im Gutshof<br />35745 Herborn<br />Telefon:02772/571911</p>
@@ -19,8 +17,4 @@ Seitentitel:
 <p><strong>3. Urheber- und Kennzeichenrecht</strong><br />Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluß zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.</p>
 <p><strong>4. Rechtswirksamkeit dieses Haftungsausschlusses</strong><br />Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.</p>
 
-<!-- wp:core-embed/wordpress {"url":"http://traka-fernspaehtruppe.de/datenschutzerklaerung/","type":"wp-embed","providerNameSlug":"traka-fernspahtrp","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-traka-fernspahtrp"><div class="wp-block-embed__wrapper">
-http://traka-fernspaehtruppe.de/datenschutzerklaerung/
-</div></figure>
-<!-- /wp:core-embed/wordpress -->
+<p><a href="/datenschutz/">Hier geht es zur Datenschutzerklärung</a></p>

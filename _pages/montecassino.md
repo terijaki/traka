@@ -2,8 +2,6 @@
 title: 'Monte Cassino &#8211; Was war damals geschehen?'
 permalink: '/montecassino/'
 layout: page
-Seitentitel:
-  - Monte Cassino
 ---
 Im Juli 1943 hatten alliierte Streitkräfte mit der Landung in Sizilien erstmals europäischen Boden betreten und drangen nun auf das italienische Festland vor. Die Deutschen Truppen, vor allem die 1. Fallschirmjägerdivision zogen sich hinhaltend kämpfend auf eine 120 km südlich von Rom vorbereitete Hauptwiderstandslinie zurück. Eckpfeiler dieser sogenannten "Gustav-Linie" waren der Monte Cassino und der Monte Maio, die das Tal des Liri-Flusses beherrschten. Hier sollte das Vordringen der Alliierten gestoppt werden. Auf dem Monte Cassino befand sich das gleichnamige Kloster aus dem 6. Jahrhundert, die Wiege des Benediktiner-Ordens und damit ein Symbol der abendländischen Christenheit. Die deutschen Truppen hatten dieses Kloster als neutrale Zone respektiert und unbesetzt gelassen. Als auf alliierter Seite der neuseeländische General Freyberg den Befehl bekam, mit seinem Korps den Klosterberg zu stürmen und hohe Verluste erlitt, nahm er irrtümlich an, dass sich im Kloster deutsche Beobachtungsstellen befinden und forderte amerikanische Luftunterstützung an. Am 15. Februar 1944 warfen 225 alliierte Bomber 567 Tonnen Bomben auf das Kloster und legten es in Schutt und Asche; 427 Zivilisten fanden den Tod und eine unersetzbare Kulturstätte war vernichtet. Ein militärischer Erfolg ist trotzdem nicht erzielt worden: Die Trümmer erbittert verteidigenden Fallschirmjäger bekamen hier von den Amerikanern die Bezeichnung "Grüne Teufel" und nach insgesamt 4 blutigen Schlachten zogen sich die Truppen zurück, weil die Alliierten inzwischen in ihrem Rücken bei Nettuno gelandet waren.
 

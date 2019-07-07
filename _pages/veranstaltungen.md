@@ -2,8 +2,6 @@
 title: Allgemeine Aktivitäten der Traditionskameradschaft Fernspähtruppe
 permalink: '/veranstaltungen/'
 layout: page
-Seitentitel:
-  - Veranstaltungen
 ---
 <strong>Nächste Veranstaltungen</strong>
 <ul>

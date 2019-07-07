@@ -2,8 +2,6 @@
 title: Kontaktübersicht
 permalink: '/kontakt/'
 layout: page
-Seitentitel:
-  - Kontakt
 ---
 <strong>1. Kameradschaftsleiter</strong>
 (Vorsitzender)
