@@ -1,6 +1,6 @@
 ---
 title: Beitragsarchiv
-permalink: /blog/
+permalink: /archiv/
 layout: default
 ---
 <!--===== News (Blog Posts) =====-->
