@@ -4,6 +4,7 @@ html, body {
   padding: 0;
   margin: 0;
   font-family: 'Droid Sans', arial, sans-serif;
+  cursor: default;
 }
 html{
   font-size: 62.5%; /* 62.5% of 16px = 10px */
