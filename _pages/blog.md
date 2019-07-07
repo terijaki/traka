@@ -1,8 +1,10 @@
 ---
 title: Beitragsarchiv
 permalink: /blog/
-layout: archive
+layout: default
 ---
+<!--===== News (Blog Posts) =====-->
+<section id="news">
   <div class="container">
     <div class="row newsposts">
       {% for post in site.posts %}
@@ -18,3 +20,4 @@ layout: archive
       {% endfor %}
     </div>
     </div>
+</section>
