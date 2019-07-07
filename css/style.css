@@ -24,8 +24,7 @@ html, body {
   border-right: 2px #0f5c3c solid;
   padding: 145px 0 28px 0;
 }
-#header div.container::before {
-  content: '';
+#traka-logo {
   background: url(/img/traka_logo.png);
   height: 183px;
   width: 146px;
@@ -33,7 +32,6 @@ html, body {
   top: 0;
   left: 78px;
   display: block;
-  pointer-events: none;
 }
 #nav-menu-container ul {
   padding: 0;
