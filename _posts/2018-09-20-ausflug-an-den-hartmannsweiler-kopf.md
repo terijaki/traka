@@ -3,8 +3,7 @@ title: Ausflug an den Hartmannsweiler Kopf
 layout: post
 permalink: /ausflug-an-den-hartmannsweiler-kopf/
 thumbnail: /upload/2018/09/HWK.jpg
-category:
-  - Allgemeines
+category: Allgemeines
 tags:
   - Auf Grund
   - Die Soldaten
