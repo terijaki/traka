@@ -21,7 +21,6 @@ tags:
   - Polnische Gedenkfeier
 
 ---
-[gallery link="file" columns="4" orderby="title"]
 
 <strong>Hintergrund, Organisation und Ablauf der Reise</strong>
 
