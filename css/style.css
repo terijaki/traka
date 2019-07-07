@@ -70,6 +70,9 @@ html, body {
   margin: 0 0 0 172px;
   font-size: 1.4rem;
 }
+#main .container img {
+    max-width: 100%;
+}
 #intro .intro-text {
   text-align: center;
 }
