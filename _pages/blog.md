@@ -11,7 +11,7 @@ layout: default
       <div class="post">
         <div class="box" onclick="location.href='{{ post.url }}';">
         <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <div class="post-excerpt">{{ post.excerpt }}</div>
+        <div class="post-excerpt">{{ post.excerpt | strip_html | strip | truncate: 600 }}</div>
         {% if post.thumbnail %}
         <a class="thumbnail" href="{{ post.url }}"><div style="background-image:url({{ post.thumbnail }})"></div></a>
         {% endif %}
