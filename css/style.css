@@ -69,7 +69,13 @@ body {
 #nav-menu-container ul li:hover {
   background: #0f5c3c;
 }
-
+#header .social-icons a {
+  color: #fff;
+}
+#header .social-icons a:hover {
+  color: #2c2e4c;
+  background: #fff;
+}
 
 /* --- Main --- */
 
