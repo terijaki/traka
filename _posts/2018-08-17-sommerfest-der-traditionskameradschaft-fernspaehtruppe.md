@@ -24,4 +24,10 @@ Zum Abschluß des offiziellen Teils wurde wie üblich „Rot scheint die Sonne�
 
 Für den gemütlichen Teil war ein hervorragendes Grillbuffet vorbereitet worden, Kamerad Keule sorgte mit Gesang und Gitarrenspiel bis zur Dämmerung für gute Unterhaltung und der Tag klang bei Lagerfeuer und bester Stimmung aus.
 
-[gallery type="rectangular" link="file" ids="2416,2417,2418,2419,2420,2421,2422,2423" orderby="rand"]
+[![](/upload/2018/08/02.jpg)](/upload/2018/08/02.jpg)
+[![](/upload/2018/08/03.jpg)](/upload/2018/08/03.jpg)
+[![](/upload/2018/08/04.jpg)](/upload/2018/08/04.jpg)
+[![](/upload/2018/08/05.jpg)](/upload/2018/08/05.jpg)
+[![](/upload/2018/08/06.jpg)](/upload/2018/08/06.jpg)
+[![](/upload/2018/08/07.jpg)](/upload/2018/08/07.jpg)
+[![](/upload/2018/08/08.jpg)](/upload/2018/08/08.jpg)
