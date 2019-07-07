@@ -148,10 +148,10 @@ body {
     background-size: cover;
     width: 100%;
     height: 100%;
+    transition: transform 4s;
 }
 #news .post:hover .thumbnail div {
     transform: scale(1.05);
-    transition: 4s;
 }
 #news .post-excerpt {
     padding-bottom: 20px;
