@@ -18,10 +18,11 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: archive
   permalinks:
-    category: '/:name/'
-    tag: '/tag/:name/'
+    categories: '/:name/'
+    tags: '/tag/:name/'
 
 # Other
 markdown: kramdown
