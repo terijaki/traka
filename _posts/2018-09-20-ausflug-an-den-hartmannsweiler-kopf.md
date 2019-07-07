@@ -1,10 +1,6 @@
 ---
-
 title: Ausflug an den Hartmannsweiler Kopf
-
-
 layout: post
-
 permalink: /ausflug-an-den-hartmannsweiler-kopf/
 thumbnail: /upload/2018/09/HWK.jpg
 category:
@@ -15,7 +11,7 @@ tags:
   - Ersten Weltkrieg
   - HWK
 ---
-<p style="text-align: left;">14 Kameradinnen und Kameraden brachen am Fr. den 24 August in 2 Kleinbussen auf, um den Hartmannsweilerkopf (franz.: Hartmannswillerkopf) in den Südvogesen im Elsass zu besichtigen.</p>
+14 Kameradinnen und Kameraden brachen am Fr. den 24 August in 2 Kleinbussen auf, um den Hartmannsweilerkopf (franz.: Hartmannswillerkopf) in den Südvogesen im Elsass zu besichtigen.
 Treffpunkt am Abend war die Unterkunft im Hotel Krone in Neuenburg. Bei dem gemeinsamen Abendessen wurde das Vorhaben für den Samstag erörtert.
 
 „Auf Grund seiner exponierten und strategisch günstigen Lage mit Ausblick in die elsässische und Oberrhein-Ebene war der Hartmannswillerkopf im Ersten Weltkrieg zwischen Deutschen und Franzosen erbittert umkämpft:
@@ -41,4 +37,7 @@ Nach diesen interessanten Einblicken hatten sich die Kameradinnen und Kameraden 
 
 Der Tag ging mit einem geselligen Beisammensein in der Unterkunft zu Ende und die Kameradinnen und Kameraden kamen nach der Rückfahrt am Sonntag wieder wohlbehalten zuhause an.
 
-[gallery type="rectangular" ids="2433,2436,2435,2434,2432"]
+[!(/upload/2018/09/DSC_0091.jpg)](/upload/2018/09/DSC_0091.jpg)
+[!(/upload/2018/09/DSC_0099.jpg)](/upload/2018/09/DSC_0099.jpg)
+[!(/upload/2018/09/DSC_0107.jpg)](/upload/2018/09/DSC_0107.jpg)
+[!(/upload/2018/09/DSC_0112.jpg)](/upload/2018/09/DSC_0112.jpg)
