@@ -1,7 +1,7 @@
 ---
-id: 296
+
 title: 'Deutsche Monte Cassino Vereinigung &#8211; der Vorsitzende'
-date: 2011-04-17T11:28:50+02:00
+
 
 layout: post
 

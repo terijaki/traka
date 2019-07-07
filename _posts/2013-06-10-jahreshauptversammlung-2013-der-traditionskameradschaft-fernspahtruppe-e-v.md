@@ -1,7 +1,7 @@
 ---
-id: 1662
+
 title: 'Jahreshauptversammlung 2013 der Traditionskameradschaft &#8222;Fernspähtruppe e.V.'
-date: 2013-06-10T11:05:53+02:00
+
 
 layout: post
 

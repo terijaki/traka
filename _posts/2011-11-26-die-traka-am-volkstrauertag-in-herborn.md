@@ -1,7 +1,7 @@
 ---
-id: 844
+
 title: Die TraKa am Volkstrauertag in Herborn
-date: 2011-11-26T09:26:21+02:00
+
 
 layout: post
 

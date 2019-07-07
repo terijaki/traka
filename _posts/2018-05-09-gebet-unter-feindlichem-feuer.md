@@ -1,7 +1,7 @@
 ---
-id: 2368
+
 title: Gebet unter Feindlichem Feuer
-date: 2018-05-09T15:38:20+02:00
+
 
 layout: post
 

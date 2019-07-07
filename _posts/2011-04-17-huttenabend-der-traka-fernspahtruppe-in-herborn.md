@@ -1,7 +1,7 @@
 ---
-id: 416
+
 title: Hüttenabend der Traka Fernspähtruppe in Herborn
-date: 2011-04-17T16:25:13+02:00
+
 
 layout: post
 

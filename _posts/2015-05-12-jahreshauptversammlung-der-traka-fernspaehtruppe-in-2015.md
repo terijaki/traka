@@ -1,7 +1,7 @@
 ---
-id: 2016
+
 title: Jahreshauptversammlung der Traka Fernspähtruppe in 2015
-date: 2015-05-12T21:46:43+02:00
+
 
 layout: post
 

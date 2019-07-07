@@ -1,7 +1,7 @@
 ---
-id: 2122
+
 title: Traka Sommerfest und 10-jähriges Kameradschaftsjubiläum
-date: 2016-08-15T11:23:58+02:00
+
 
 layout: post
 

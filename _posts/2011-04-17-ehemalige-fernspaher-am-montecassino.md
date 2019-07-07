@@ -1,7 +1,7 @@
 ---
-id: 191
+
 title: Ehemalige Fernspäher am Montecassino
-date: 2011-04-17T08:43:19+02:00
+
 
 layout: post
 

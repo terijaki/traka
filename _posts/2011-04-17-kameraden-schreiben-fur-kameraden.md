@@ -1,7 +1,7 @@
 ---
-id: 248
+
 title: Kameraden schreiben für Kameraden
-date: 2011-04-17T09:13:52+02:00
+
 
 layout: post
 

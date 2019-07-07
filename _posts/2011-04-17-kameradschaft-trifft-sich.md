@@ -1,7 +1,7 @@
 ---
-id: 207
+
 title: Kameradschaft trifft sich
-date: 2011-04-17T08:49:06+02:00
+
 
 layout: post
 

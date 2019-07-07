@@ -1,7 +1,7 @@
 ---
-id: 662
+
 title: Die DMCV in Monte Cassino 2011
-date: 2011-06-16T14:16:34+02:00
+
 
 layout: post
 

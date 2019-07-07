@@ -1,7 +1,7 @@
 ---
-id: 2111
+
 title: Einladung zum Ortspokalschießen 2016
-date: 2016-07-26T11:00:56+02:00
+
 
 layout: post
 

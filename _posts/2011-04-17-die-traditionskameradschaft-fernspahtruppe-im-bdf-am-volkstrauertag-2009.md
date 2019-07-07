@@ -1,7 +1,7 @@
 ---
-id: 492
+
 title: Die Traditionskameradschaft Fernspähtruppe im BDF am Volkstrauertag 2009
-date: 2011-04-17T17:46:56+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 358
+
 title: Volkstrauertag 2009 in Monte Cassino
-date: 2011-04-17T12:15:35+02:00
+
 
 layout: post
 

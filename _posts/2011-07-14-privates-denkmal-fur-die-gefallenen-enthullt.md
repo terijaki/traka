@@ -1,7 +1,7 @@
 ---
-id: 821
+
 title: Privates Denkmal für die Gefallenen enthüllt
-date: 2011-07-14T13:07:41+02:00
+
 
 layout: post
 

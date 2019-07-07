@@ -1,7 +1,7 @@
 ---
-id: 2265
+
 title: 'Sommerfest der  Traka Fernspäher FeSpäh am 15.07.2017 in Erbenhausen'
-date: 2018-01-03T19:56:42+02:00
+
 
 layout: post
 

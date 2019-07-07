@@ -1,7 +1,7 @@
 ---
-id: 438
+
 title: 'Hier wurde der &#8222;Grüne Teufel&#8220; geboren'
-date: 2011-04-17T17:17:23+02:00
+
 
 layout: post
 

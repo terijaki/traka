@@ -1,7 +1,7 @@
 ---
-id: 235
+
 title: 'Ernst Krug wurde 70 und neuer Vorsitzender der MC- Vereinigung'
-date: 2011-04-17T09:06:15+02:00
+
 
 layout: post
 

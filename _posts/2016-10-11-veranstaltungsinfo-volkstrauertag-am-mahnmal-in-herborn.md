@@ -1,7 +1,7 @@
 ---
-id: 2140
+
 title: 'Veranstaltungsinfo: Volkstrauertag am Mahnmal in Herborn'
-date: 2016-10-11T00:26:06+02:00
+
 
 layout: post
 

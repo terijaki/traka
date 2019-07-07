@@ -1,7 +1,7 @@
 ---
-id: 1542
+
 title: Zwei, die nicht vergessen sind
-date: 2012-09-26T13:50:42+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 454
+
 title: Die TraKa FeSpähTrp an der Maginotlinie
-date: 2011-04-17T17:26:46+02:00
+
 
 layout: post
 

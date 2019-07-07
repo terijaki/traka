@@ -1,7 +1,7 @@
 ---
-id: 1609
+
 title: Einladung zum Sommerfest 2013
-date: 2013-06-04T12:33:01+02:00
+
 
 layout: post
 

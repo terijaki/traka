@@ -1,7 +1,7 @@
 ---
-id: 1889
+
 title: Terminänderung Sommerfest
-date: 2014-05-04T23:16:54+02:00
+
 
 layout: post
 

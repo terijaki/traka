@@ -1,7 +1,7 @@
 ---
-id: 2037
+
 title: Volkstrauertag am 15.Nov. 2015 in Herborn
-date: 2015-10-22T18:50:41+02:00
+
 
 layout: post
 

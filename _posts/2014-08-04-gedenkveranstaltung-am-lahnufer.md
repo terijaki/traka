@@ -1,7 +1,7 @@
 ---
-id: 1953
+
 title: Gedenkveranstaltung am Lahnufer
-date: 2014-08-04T19:25:50+02:00
+
 
 layout: post
 

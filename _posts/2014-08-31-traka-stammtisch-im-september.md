@@ -1,7 +1,7 @@
 ---
-id: 1985
+
 title: Traka-Stammtisch im September
-date: 2014-08-31T11:19:29+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 175
+
 title: TraKa stellte sich Bürgermeister Hans Brenner vor
-date: 2011-04-17T08:37:15+02:00
+
 
 layout: post
 

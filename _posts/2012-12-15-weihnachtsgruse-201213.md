@@ -1,7 +1,7 @@
 ---
-id: 1581
+
 title: Weihnachtsgrüße 2012/13
-date: 2012-12-15T11:06:11+02:00
+
 
 layout: post
 

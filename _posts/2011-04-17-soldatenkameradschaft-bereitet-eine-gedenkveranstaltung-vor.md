@@ -1,7 +1,7 @@
 ---
-id: 204
+
 title: Soldatenkameradschaft bereitet eine Gedenkveranstaltung vor
-date: 2011-04-17T08:48:06+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 518
+
 title: Die Traditionskameradschaft Fernspähtruppe im BDF beim 21. Sturmregimentstreffen in Lich
-date: 2011-04-17T18:20:02+02:00
+
 
 layout: post
 

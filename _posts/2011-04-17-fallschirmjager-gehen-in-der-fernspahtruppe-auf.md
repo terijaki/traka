@@ -1,7 +1,7 @@
 ---
-id: 201
+
 title: Fallschirmjäger gehen in der Fernspähtruppe auf
-date: 2011-04-17T08:47:17+02:00
+
 
 layout: post
 

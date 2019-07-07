@@ -1,7 +1,7 @@
 ---
-id: 452
+
 title: Wir begrüßen unser 200. Mitglied!
-date: 2011-04-17T17:25:48+02:00
+
 
 layout: post
 

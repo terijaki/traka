@@ -1,7 +1,7 @@
 ---
-id: 846
+
 title: Die Deutsche Montecassino-Vereinigung am Volkstrauertag 2011 in Caira
-date: 2011-11-26T09:31:37+02:00
+
 
 layout: post
 

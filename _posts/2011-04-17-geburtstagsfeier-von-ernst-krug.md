@@ -1,7 +1,7 @@
 ---
-id: 230
+
 title: Geburtstagsfeier von Ernst Krug
-date: 2011-04-17T09:03:49+02:00
+
 
 layout: post
 

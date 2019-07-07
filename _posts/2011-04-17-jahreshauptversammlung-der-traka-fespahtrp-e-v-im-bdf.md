@@ -1,7 +1,7 @@
 ---
-id: 540
+
 title: Jahreshauptversammlung der TraKa FernSpähTrp.e.V. im BDF
-date: 2011-04-17T18:32:50+02:00
+
 
 layout: post
 

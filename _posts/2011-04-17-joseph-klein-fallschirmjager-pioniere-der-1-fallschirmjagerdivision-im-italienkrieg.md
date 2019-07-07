@@ -1,7 +1,7 @@
 ---
-id: 301
+
 title: 'Joseph Klein Fallschirmjäger &#8211; Pioniere der 1. Fallschirmjägerdivision im Italienkrieg'
-date: 2011-04-17T11:31:16+02:00
+
 
 layout: post
 

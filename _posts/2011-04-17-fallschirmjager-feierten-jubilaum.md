@@ -1,7 +1,7 @@
 ---
-id: 210
+
 title: Fallschirmjäger feierten Jubiläum
-date: 2011-04-17T08:50:26+02:00
+
 
 layout: post
 

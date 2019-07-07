@@ -1,7 +1,7 @@
 ---
-id: 2070
+
 title: 'Veranstaltungstermine &#8211; Mai &#038; August 2016'
-date: 2016-04-28T01:09:54+02:00
+
 
 layout: post
 

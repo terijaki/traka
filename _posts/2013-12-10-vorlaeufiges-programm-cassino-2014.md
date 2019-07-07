@@ -1,7 +1,7 @@
 ---
-id: 1767
+
 title: 'Vorläufiges Programm: Cassino 2014'
-date: 2013-12-10T21:52:40+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 2447
+
 title: 'Ankündigung: Volkstrauertag am Mahnmal in Herborn am 18.11.2018'
-date: 2018-10-19T16:03:11+02:00
+
 
 layout: post
 

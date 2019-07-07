@@ -1,7 +1,7 @@
 ---
-id: 194
+
 title: Kutschen im Bauernhofmuseum besser präsentiert
-date: 2011-04-17T08:44:47+02:00
+
 
 layout: post
 

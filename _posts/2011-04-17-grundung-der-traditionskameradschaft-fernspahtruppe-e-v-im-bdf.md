@@ -1,7 +1,7 @@
 ---
-id: 167
+
 title: Gründung der „Traditionskameradschaft Fernspähtruppe e.V. im BDF“
-date: 2011-04-17T08:31:16+02:00
+
 
 layout: post
 

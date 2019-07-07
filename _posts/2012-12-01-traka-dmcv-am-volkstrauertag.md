@@ -1,7 +1,7 @@
 ---
-id: 1556
+
 title: 'TraKa &#038; DMCV am Volkstrauertag'
-date: 2012-12-01T15:21:03+02:00
+
 
 layout: post
 

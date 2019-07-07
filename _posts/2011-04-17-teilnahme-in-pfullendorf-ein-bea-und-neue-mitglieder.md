@@ -1,7 +1,7 @@
 ---
-id: 419
+
 title: Teilnahme in Pfullendorf – ein Bea und neue Mitglieder
-date: 2011-04-17T16:27:58+02:00
+
 
 layout: post
 

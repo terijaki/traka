@@ -1,7 +1,7 @@
 ---
-id: 426
+
 title: Neujahrsempfang der Traditionskameradschaft Fernspäher
-date: 2011-04-17T17:10:22+02:00
+
 
 layout: post
 

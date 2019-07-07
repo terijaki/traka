@@ -1,7 +1,7 @@
 ---
-id: 1671
+
 title: Für Monte Cassino gibt es kein Vergessen
-date: 2013-06-10T11:43:38+02:00
+
 
 layout: post
 

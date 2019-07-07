@@ -1,7 +1,7 @@
 ---
-id: 755
+
 title: Das Sommerfest der Traditionskameradschaft Fernspäher im BDF
-date: 2011-07-10T23:14:42+02:00
+
 
 layout: post
 

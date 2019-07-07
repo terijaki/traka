@@ -1,7 +1,7 @@
 ---
-id: 433
+
 title: Jahreshauptversammlung der Traditionskameradschaft Fernspäher im BDF
-date: 2011-04-17T17:15:48+02:00
+
 
 layout: post
 

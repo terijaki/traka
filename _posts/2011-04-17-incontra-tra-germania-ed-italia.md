@@ -1,7 +1,7 @@
 ---
-id: 253
+
 title: Incontra tra Germania ed Italia
-date: 2011-04-17T09:15:35+02:00
+
 
 layout: post
 

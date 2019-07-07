@@ -1,7 +1,7 @@
 ---
-id: 2315
+
 title: 'Besuch in Cassino vom 15. &#8211; 19. Mai 2017'
-date: 2018-01-02T20:34:20+02:00
+
 
 layout: post
 

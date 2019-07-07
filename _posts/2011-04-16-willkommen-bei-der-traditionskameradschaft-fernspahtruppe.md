@@ -1,6 +1,6 @@
 ---
 title: Willkommen bei der Traditionskameradschaft Fernspähtruppe!
-date: 2011-04-16T13:29:38+02:00
+
 layout: post
 permalink: /willkommen-bei-der-traditionskameradschaft-fernspahtruppe/
 thumbnail: /upload/2011/04/fallschirmspringer23.jpg

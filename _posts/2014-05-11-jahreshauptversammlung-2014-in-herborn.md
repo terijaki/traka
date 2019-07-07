@@ -1,7 +1,7 @@
 ---
-id: 1896
+
 title: Jahreshauptversammlung 2014 in Herborn
-date: 2014-05-11T20:14:34+02:00
+
 
 layout: post
 

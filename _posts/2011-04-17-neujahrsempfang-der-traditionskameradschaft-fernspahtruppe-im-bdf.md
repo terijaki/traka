@@ -1,7 +1,7 @@
 ---
-id: 507
+
 title: Neujahrsempfang der Traditionskameradschaft Fernspähtruppe im BDF
-date: 2011-04-17T18:16:20+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 197
+
 title: Neujahrsempfang 2008
-date: 2011-04-17T08:46:08+02:00
+
 
 layout: post
 

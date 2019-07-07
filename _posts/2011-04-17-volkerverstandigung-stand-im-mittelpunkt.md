@@ -1,7 +1,7 @@
 ---
-id: 245
+
 title: Völkerverständigung stand im Mittelpunkt
-date: 2011-04-17T09:11:14+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 1750
+
 title: Volkstrauertag in Herborn
-date: 2013-11-07T17:18:03+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 1994
+
 title: Kranzniederlegung und Gedenkveranstaltung (Herborn)
-date: 2014-10-23T21:25:09+02:00
+
 
 layout: post
 

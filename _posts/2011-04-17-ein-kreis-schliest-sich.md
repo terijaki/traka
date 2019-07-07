@@ -1,7 +1,7 @@
 ---
-id: 409
+
 title: 'Ein Kreis schließt sich:'
-date: 2011-04-17T15:58:52+02:00
+
 
 layout: post
 

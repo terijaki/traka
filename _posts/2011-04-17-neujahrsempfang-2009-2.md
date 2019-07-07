@@ -1,7 +1,7 @@
 ---
-id: 216
+
 title: Neujahrsempfang 2009
-date: 2011-04-17T08:51:36+02:00
+
 
 layout: post
 

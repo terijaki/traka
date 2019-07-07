@@ -1,7 +1,7 @@
 ---
-id: 2004
+
 title: Die DMCV in Cassino (November 2014)
-date: 2015-01-24T16:59:28+02:00
+
 
 layout: post
 

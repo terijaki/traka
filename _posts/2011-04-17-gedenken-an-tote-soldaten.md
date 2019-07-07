@@ -1,7 +1,7 @@
 ---
-id: 256
+
 title: Gedenken an tote Soldaten
-date: 2011-04-17T09:16:42+02:00
+
 
 layout: post
 

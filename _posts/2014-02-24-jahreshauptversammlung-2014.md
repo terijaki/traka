@@ -1,7 +1,7 @@
 ---
-id: 1793
+
 title: Jahreshauptversammlung 2014
-date: 2014-02-24T20:12:36+02:00
+
 
 layout: post
 

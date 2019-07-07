@@ -1,7 +1,7 @@
 ---
-id: 2010
+
 title: Einladung zur Jahreshauptversammlung 2015
-date: 2015-02-22T17:24:03+02:00
+
 
 layout: post
 

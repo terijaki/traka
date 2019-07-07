@@ -1,7 +1,7 @@
 ---
-id: 313
+
 title: Informationen zu unserem Engagement für Monte Cassino
-date: 2011-04-17T11:50:00+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 2049
+
 title: Sommerfest der Traditionskameradschaft „Fernspähtruppe“ im BDF
-date: 2016-04-21T19:35:55+02:00
+
 
 layout: post
 

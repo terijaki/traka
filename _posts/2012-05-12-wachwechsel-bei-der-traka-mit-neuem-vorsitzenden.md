@@ -1,7 +1,7 @@
 ---
-id: 932
+
 title: Wachwechsel bei der Traka mit neuem Vorsitzenden
-date: 2012-05-12T16:58:10+02:00
+
 
 layout: post
 

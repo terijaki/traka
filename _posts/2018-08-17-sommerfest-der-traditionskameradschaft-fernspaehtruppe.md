@@ -1,7 +1,7 @@
 ---
-id: 2404
+
 title: Sommerfest der Traditionskameradschaft Fernspähtruppe
-date: 2018-08-17T11:26:12+02:00
+
 
 layout: post
 

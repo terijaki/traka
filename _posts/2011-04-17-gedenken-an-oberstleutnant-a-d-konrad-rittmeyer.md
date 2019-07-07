@@ -1,7 +1,7 @@
 ---
-id: 465
+
 title: Gedenken an Oberstleutnant a.D. Konrad Rittmeyer
-date: 2011-04-17T17:32:25+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 366
+
 title: 'Fahrt der Monte Cassino &#8211; Vereinigung zum 66.Jahrestag der Kämpfe'
-date: 2011-04-17T12:18:06+02:00
+
 
 layout: post
 

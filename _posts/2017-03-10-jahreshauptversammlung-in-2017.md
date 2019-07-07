@@ -1,7 +1,7 @@
 ---
-id: 2205
+
 title: Jahreshauptversammlung in 2017
-date: 2017-03-10T23:32:04+02:00
+
 
 layout: post
 

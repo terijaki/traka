@@ -1,7 +1,7 @@
 ---
-id: 1720
+
 title: Sommerfest der DMCV und der Traka Fernspähtruppe
-date: 2013-07-20T12:44:55+02:00
+
 
 layout: post
 

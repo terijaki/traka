@@ -1,7 +1,7 @@
 ---
-id: 319
+
 title: Gedenkfeiern Monte Cassino 2009
-date: 2011-04-17T11:52:37+02:00
+
 
 layout: post
 

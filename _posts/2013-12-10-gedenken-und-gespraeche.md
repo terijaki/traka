@@ -1,7 +1,7 @@
 ---
-id: 1755
+
 title: Gedenken und Gespräche
-date: 2013-12-10T21:35:14+02:00
+
 
 layout: post
 

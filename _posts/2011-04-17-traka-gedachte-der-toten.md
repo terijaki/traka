@@ -1,7 +1,7 @@
 ---
-id: 184
+
 title: TraKa gedachte der Toten
-date: 2011-04-17T08:40:43+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 2292
+
 title: Ausflug der Traka am 28.08.2017 nach Hürtgenwald
-date: 2018-01-08T19:21:22+02:00
+
 
 layout: post
 

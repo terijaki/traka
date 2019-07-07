@@ -1,7 +1,7 @@
 ---
-id: 799
+
 title: Mahnung, Aussöhnung und Völkerverständigung als Ziel
-date: 2011-07-14T11:12:59+02:00
+
 
 layout: post
 

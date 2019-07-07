@@ -1,7 +1,7 @@
 ---
-id: 469
+
 title: Ernst Krug bekam das Vertrauen ausgesprochen
-date: 2011-04-17T17:33:08+02:00
+
 
 layout: post
 

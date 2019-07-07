@@ -1,7 +1,7 @@
 ---
-id: 218
+
 title: 65-jähriges Gedenken an die Schlacht um Monte Cassino
-date: 2011-04-17T08:57:18+02:00
+
 
 layout: post
 

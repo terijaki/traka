@@ -1,7 +1,7 @@
 ---
-id: 179
+
 title: Kameradschaft der Fallschirmspringer
-date: 2011-04-17T08:38:26+02:00
+
 
 layout: post
 

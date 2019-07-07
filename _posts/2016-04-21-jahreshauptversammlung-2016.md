@@ -1,7 +1,7 @@
 ---
-id: 2059
+
 title: Jahreshauptversammlung 2016
-date: 2016-04-21T19:40:38+02:00
+
 
 layout: post
 

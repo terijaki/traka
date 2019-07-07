@@ -1,7 +1,7 @@
 ---
-id: 1874
+
 title: Pokalschießen in Herborn
-date: 2014-03-25T20:55:08+02:00
+
 
 layout: post
 

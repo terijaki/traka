@@ -1,7 +1,7 @@
 ---
-id: 525
+
 title: Fernspäher zu Gast beim General der Heeresaufklärungstruppe, Graf Strachwitz.
-date: 2011-04-17T18:23:28+02:00
+
 
 layout: post
 

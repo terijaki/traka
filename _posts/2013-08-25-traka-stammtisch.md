@@ -1,7 +1,7 @@
 ---
-id: 1741
+
 title: Traka-Stammtisch
-date: 2013-08-25T12:16:38+02:00
+
 
 layout: post
 

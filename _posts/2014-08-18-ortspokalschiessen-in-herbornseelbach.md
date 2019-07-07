@@ -1,7 +1,7 @@
 ---
-id: 1971
+
 title: Ortspokalschießen in Herbornseelbach
-date: 2014-08-18T19:22:43+02:00
+
 
 layout: post
 

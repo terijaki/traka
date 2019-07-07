@@ -1,7 +1,7 @@
 ---
-id: 2240
+
 title: Volkstrauertag 2017 in Herborn
-date: 2018-01-09T18:16:25+02:00
+
 
 layout: post
 

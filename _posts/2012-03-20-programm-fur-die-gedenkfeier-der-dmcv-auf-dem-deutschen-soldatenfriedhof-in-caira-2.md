@@ -1,7 +1,7 @@
 ---
-id: 901
+
 title: Programm für die Gedenkfeier der DMCV auf dem deutschen Soldatenfriedhof in Caira.
-date: 2012-03-20T21:50:22+02:00
+
 
 layout: post
 

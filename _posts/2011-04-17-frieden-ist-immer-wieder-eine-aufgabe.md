@@ -1,7 +1,7 @@
 ---
-id: 241
+
 title: Frieden ist immer wieder eine Aufgabe
-date: 2011-04-17T09:09:47+02:00
+
 
 layout: post
 

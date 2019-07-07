@@ -1,7 +1,7 @@
 ---
-id: 2225
+
 title: Einladung zum Traka-Sommerfest 2017
-date: 2017-06-28T21:32:35+02:00
+
 
 layout: post
 

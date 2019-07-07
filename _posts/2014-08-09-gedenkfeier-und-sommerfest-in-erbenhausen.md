@@ -1,7 +1,7 @@
 ---
-id: 1958
+
 title: Gedenkfeier und Sommerfest in Erbenhausen
-date: 2014-08-09T21:58:45+02:00
+
 
 layout: post
 

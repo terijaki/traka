@@ -1,7 +1,7 @@
 ---
-id: 530
+
 title: Die DMCV am Volkstrauertag in Caira
-date: 2011-04-17T18:24:37+02:00
+
 
 layout: post
 

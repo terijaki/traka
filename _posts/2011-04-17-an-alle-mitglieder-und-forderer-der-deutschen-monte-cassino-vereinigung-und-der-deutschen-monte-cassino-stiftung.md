@@ -1,7 +1,7 @@
 ---
-id: 299
+
 title: An alle Mitglieder und Förderer der Deutschen Monte Cassino Vereinigung und der Deutschen Monte Cassino Stiftung
-date: 2011-04-17T11:29:39+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 2352
+
 title: Bericht zur Jahreshauptversammlung der Traditionskameradschaft Fernspähtruppe e.V. im BDF vom 24.03.2018
-date: 2018-04-10T19:15:56+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 512
+
 title: Jahreshauptversammlung der Traditionskameradschft Fernspähtruppe im BDF
-date: 2011-04-17T18:18:03+02:00
+
 
 layout: post
 

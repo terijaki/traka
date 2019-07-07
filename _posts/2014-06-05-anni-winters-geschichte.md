@@ -1,7 +1,7 @@
 ---
-id: 1907
+
 title: Anni Winters Geschichte
-date: 2014-06-05T19:15:24+02:00
+
 
 layout: post
 

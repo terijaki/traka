@@ -1,7 +1,7 @@
 ---
-id: 238
+
 title: Der Kameraden gedacht
-date: 2011-04-17T09:08:11+02:00
+
 
 layout: post
 

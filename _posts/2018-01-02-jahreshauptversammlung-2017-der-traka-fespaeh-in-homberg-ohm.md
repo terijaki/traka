@@ -1,7 +1,7 @@
 ---
-id: 2229
+
 title: Jahreshauptversammlung 2017 der TRAKA FeSpäh in Homberg (Ohm)
-date: 2018-01-02T09:43:39+02:00
+
 
 layout: post
 

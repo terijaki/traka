@@ -1,7 +1,7 @@
 ---
-id: 383
+
 title: Modell Monte Cassino – DAS VERDUN DES 2. WELTKRIEGES
-date: 2011-04-17T12:26:30+02:00
+
 
 layout: post
 

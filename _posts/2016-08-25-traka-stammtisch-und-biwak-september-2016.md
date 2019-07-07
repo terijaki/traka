@@ -1,7 +1,7 @@
 ---
-id: 2117
+
 title: Traka-Stammtisch und Biwak (September 2016)
-date: 2016-08-25T20:00:08+02:00
+
 
 layout: post
 

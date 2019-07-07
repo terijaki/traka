@@ -1,7 +1,7 @@
 ---
-id: 2084
+
 title: Einladung zum Traka-Sommerfest und 10 jährigen Kameradschaftsjubiläum
-date: 2016-07-05T20:10:26+02:00
+
 
 layout: post
 

@@ -1,7 +1,7 @@
 ---
-id: 2430
+
 title: Ausflug an den Hartmannsweiler Kopf
-date: 2018-09-20T10:30:35+02:00
+
 
 layout: post
 
