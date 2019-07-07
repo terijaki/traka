@@ -80,7 +80,8 @@ body {
 /* --- Main --- */
 
 #main > div.container {
-  background: #F9F4EF;
+  background: linear-gradient(120deg,#FFFFFF,#F9F4EF);
+  background-attachment: fixed;
   min-height: 100vh;
   padding: 12px 70px 60px 70px;
   margin: 0 0 0 172px;
