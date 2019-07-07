@@ -8,7 +8,7 @@ layout: default
   <div class="container">
     <div class="row newsposts">
       {% for post in site.posts %}
-      {% if post.categories contains "Veranstaltungen" %}
+      {% unless post.categories contains "Presseartikel" %}
       <div class="post">
         <div class="box" onclick="location.href='{{ post.url }}';">
         <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -18,7 +18,7 @@ layout: default
         <div class="post-excerpt">{{ post.excerpt | strip_html | strip | truncate: 600 }}</div>
         </div>
       </div>
-      {% endif %}
+      {% endunless %}
       {% endfor %}
     </div>
     </div>
