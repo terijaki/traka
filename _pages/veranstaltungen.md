@@ -15,7 +15,7 @@ layout: default
         {% if post.thumbnail %}
         <a class="thumbnail" href="{{ post.url }}"><div style="background-image:url({{ post.thumbnail }})"></div></a>
         {% endif %}
-        <div class="post-excerpt">{{ post.excerpt | strip_html | strip_newlines | strip | truncate: 1200 }}</div>
+        <div class="post-excerpt">{{ post.excerpt | strip_html | strip_newlines | strip | truncatewords: 50 }}</div>
         </div>
       </div>
       {% endif %}
