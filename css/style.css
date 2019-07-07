@@ -56,6 +56,9 @@ body {
   background-repeat: repeat-x;
   line-height: 24px;
   list-style: none;
+  background: url(/upload/nav_break_main.gif);
+  background-position: bottom;
+  background-repeat: repeat-x;
 }
 #nav-menu-container ul li.active {
   background: #9a1918;
