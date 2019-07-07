@@ -3,7 +3,7 @@ title: Veranstaltungen
 permalink: /veranstaltungen/
 layout: default
 ---
-<!--===== News (Blog Posts) =====-->
+<!--===== News (Veranstaltungen) =====-->
 <section id="news">
   <div class="container">
     <div class="row newsposts">
