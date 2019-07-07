@@ -63,6 +63,9 @@ body {
 #nav-menu-container ul li.active {
   background: #9a1918;
 }
+#nav-menu-container ul li.active a {
+  color: #ffffff;
+}
 #nav-menu-container ul li:hover {
   background: #0f5c3c;
 }
