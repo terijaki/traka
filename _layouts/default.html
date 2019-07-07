@@ -19,10 +19,8 @@
         <ul>
           <li><a href="/">Startseite</a></li>
           {% if page.url == "/ueberuns/" %}<li class="active">{% else %}<li>{% endif %}<a href="/ueberuns/">Über uns</a></li>
-
           {% if page.url == "/chronik/" %}<li class="active">{% else %}<li>{% endif %}<a href="/chronik/">Chronik</a></li>
-
-          <li><a href="/veranstalungen/">Veranstaltungen</a></li>
+          {% if page.url == "/veranstaltungen/" %}<li class="active">{% else %}<li>{% endif %}<a href="/veranstaltungen/">Veranstaltungen</a></li>
           <li><a href="#">Presseartikel</a></li>
           {% if page.url == "/montecassino/" %}<li class="active">{% else %}<li>{% endif %}<a href="/montecassino/">Monte Cassino</a></li>
           <li><a href="https://dmcv.de" target="_blank">DMCV</a></li>
