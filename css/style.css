@@ -125,10 +125,20 @@ body {
   margin: 25px 0px;
   border-bottom: 1px dotted #4C4C4C;
   font-size: 1.4rem;
+  clear: both;
 }
 #news .post h4 {
   font-size: 2rem;
   text-decoration: none;
+}
+#news .thumbnail div {
+    background-position: center;
+    width: 50%;
+    height: 16vh;
+    max-height: 140px;
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
 }
 #news .archive-link {
   text-align: center;
