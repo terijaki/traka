@@ -6,7 +6,7 @@ title: Terminänderung Sommerfest
 layout: post
 
 permalink: /terminaenderung-sommerfest/
-categories:
+category:
   - Allgemeines
 tags:
   - Sommerfest

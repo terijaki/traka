@@ -6,7 +6,7 @@ title: An alle Mitglieder und Förderer der Deutschen Monte Cassino Vereinigung 
 layout: post
 
 permalink: /an-alle-mitglieder-und-forderer-der-deutschen-monte-cassino-vereinigung-und-der-deutschen-monte-cassino-stiftung/
-categories:
+category:
   - Monte Cassino
 tags:
   - Cassino Gedenktag

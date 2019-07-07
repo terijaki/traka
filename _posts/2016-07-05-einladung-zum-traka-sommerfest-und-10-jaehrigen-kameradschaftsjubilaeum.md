@@ -7,7 +7,7 @@ layout: post
 
 permalink: /einladung-zum-traka-sommerfest-und-10-jaehrigen-kameradschaftsjubilaeum/
 thumbnail: /upload/2016/07/pdficon.png
-categories:
+category:
   - Allgemeines
 tags:
   - Der Vorstand

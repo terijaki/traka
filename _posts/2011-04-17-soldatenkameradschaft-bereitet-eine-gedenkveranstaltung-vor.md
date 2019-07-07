@@ -7,7 +7,7 @@ layout: post
 
 permalink: /soldatenkameradschaft-bereitet-eine-gedenkveranstaltung-vor/
 thumbnail: /upload/za019-576x198.jpg
-categories:
+category:
   - Monte Cassino
   - Presseartikel
 tags:

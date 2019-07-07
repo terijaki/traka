@@ -6,7 +6,7 @@ title: Ortspokalschießen in Herbornseelbach
 layout: post
 
 permalink: /ortspokalschiessen-in-herbornseelbach/
-categories:
+category:
   - Allgemeines
 tags:
   - Bernhard Hen

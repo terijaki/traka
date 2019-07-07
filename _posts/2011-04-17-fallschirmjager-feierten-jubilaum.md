@@ -7,7 +7,7 @@ layout: post
 
 permalink: /fallschirmjager-feierten-jubilaum/
 thumbnail: /upload/za0111-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Dillenburg Herborn

@@ -6,7 +6,7 @@ title: 'Veranstaltungsinfo: Volkstrauertag am Mahnmal in Herborn'
 layout: post
 
 permalink: /veranstaltungsinfo-volkstrauertag-am-mahnmal-in-herborn/
-categories:
+category:
   - Allgemeines
 tags:
   - Marienbader Park

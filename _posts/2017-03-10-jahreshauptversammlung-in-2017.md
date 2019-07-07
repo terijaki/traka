@@ -6,7 +6,7 @@ title: Jahreshauptversammlung in 2017
 layout: post
 
 permalink: /jahreshauptversammlung-in-2017/
-categories:
+category:
   - Allgemeines
 tags:
   - Der Vorstand

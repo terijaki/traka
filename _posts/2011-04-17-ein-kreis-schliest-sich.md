@@ -7,7 +7,7 @@ layout: post
 
 permalink: /ein-kreis-schliest-sich/
 thumbnail: /upload/018-400x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Amerikaner Konrad Rittmeyer

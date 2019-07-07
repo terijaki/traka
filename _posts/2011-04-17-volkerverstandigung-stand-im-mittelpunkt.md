@@ -7,7 +7,7 @@ layout: post
 
 permalink: /volkerverstandigung-stand-im-mittelpunkt/
 thumbnail: /upload/011-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Am Tag

@@ -6,7 +6,7 @@ title: Ernst Krug bekam das Vertrauen ausgesprochen
 layout: post
 
 permalink: /ernst-krug-bekam-das-vertrauen-ausgesprochen/
-categories:
+category:
   - Veranstaltungen
 tags:
   - Angriffe Trappmanns

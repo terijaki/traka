@@ -7,7 +7,7 @@ layout: post
 
 permalink: /die-dmcv-am-volkstrauertag-in-caira/
 thumbnail: /upload/0123-780x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Am Rande

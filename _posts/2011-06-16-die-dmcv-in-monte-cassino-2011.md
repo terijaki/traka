@@ -9,7 +9,7 @@ permalink: /die-dmcv-in-monte-cassino-2011/
 twitter_id:
   - "81338978795667456"
 thumbnail: /upload/20110616-011805-940x198.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

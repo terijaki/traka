@@ -6,7 +6,7 @@ title: 'Hier wurde der &#8222;Grüne Teufel&#8220; geboren'
 layout: post
 
 permalink: /hier-wurde-der-grune-teufel-geboren/
-categories:
+category:
   - Veranstaltungen
 tags:
   - Gerhard Roos

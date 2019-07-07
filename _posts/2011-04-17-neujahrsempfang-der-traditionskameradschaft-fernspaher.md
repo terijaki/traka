@@ -7,7 +7,7 @@ layout: post
 
 permalink: /neujahrsempfang-der-traditionskameradschaft-fernspaher/
 thumbnail: /upload/0111-400x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Bodo Schwellnus

@@ -7,7 +7,7 @@ layout: post
 
 permalink: /kutschen-im-bauernhofmuseum-besser-prasentiert/
 thumbnail: /upload/za016-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Ernst Krug

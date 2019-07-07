@@ -6,7 +6,7 @@ title: Gedenkveranstaltung Mai 2017
 layout: post
 
 permalink: /gedenkveranstaltung-mai-2017/
-categories:
+category:
   - Allgemeines
 tags:
   - Monte Cassino

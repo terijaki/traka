@@ -7,7 +7,7 @@ layout: post
 
 permalink: /gedenken-und-gespraeche/
 thumbnail: /upload/2013/12/002.jpg
-categories:
+category:
   - Monte Cassino
 tags:
   - Am Sonntag

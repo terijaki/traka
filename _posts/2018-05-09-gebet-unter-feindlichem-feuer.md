@@ -7,7 +7,7 @@ layout: post
 
 permalink: /gebet-unter-feindlichem-feuer/
 thumbnail: /upload/2018/05/karte.jpg
-categories:
+category:
   - Allgemeines
   - Presseartikel
 tags:

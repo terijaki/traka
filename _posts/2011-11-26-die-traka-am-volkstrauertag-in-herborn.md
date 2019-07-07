@@ -7,7 +7,7 @@ layout: post
 
 permalink: /die-traka-am-volkstrauertag-in-herborn/
 thumbnail: /upload/20111126-082559-480x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Deutsche Soldaten

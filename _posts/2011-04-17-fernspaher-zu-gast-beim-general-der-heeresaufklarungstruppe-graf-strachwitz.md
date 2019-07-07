@@ -7,7 +7,7 @@ layout: post
 
 permalink: /fernspaher-zu-gast-beim-general-der-heeresaufklarungstruppe-graf-strachwitz/
 thumbnail: /upload/0122-780x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Begleiter Audi Westphal

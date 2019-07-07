@@ -7,7 +7,7 @@ layout: post
 
 permalink: /frieden-ist-immer-wieder-eine-aufgabe/
 thumbnail: /upload/za02-768x198.jpg
-categories:
+category:
   - Presseartikel
   - Veranstaltungen
 tags:

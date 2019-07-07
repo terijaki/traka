@@ -7,7 +7,7 @@ layout: post
 
 permalink: /veranstaltungstermine-mai-august-2016/
 thumbnail: /upload/2016/04/lageplan.jpg
-categories:
+category:
   - Allgemeines
 tags:
   - Sommerfest

@@ -6,7 +6,7 @@ title: Volkstrauertag am 15.Nov. 2015 in Herborn
 layout: post
 
 permalink: /volkstrauertag-am-15-nov-2015-in-herborn/
-categories:
+category:
   - Allgemeines
 tags:
   - Der Vorstand

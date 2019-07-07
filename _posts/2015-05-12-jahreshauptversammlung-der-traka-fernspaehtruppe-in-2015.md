@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-der-traka-fernspaehtruppe-in-2015/
 thumbnail: /upload/2015/05/P1000520.jpg
-categories:
+category:
   - Allgemeines
   - Veranstaltungen
 tags:

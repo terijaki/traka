@@ -7,7 +7,7 @@ layout: post
 
 permalink: /zwei-die-nicht-vergessen-sind/
 thumbnail: /upload/P8250172-1-940x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Arnim Kaserne Wetzlar

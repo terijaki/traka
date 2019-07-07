@@ -7,7 +7,7 @@ layout: post
 
 permalink: /incontra-tra-germania-ed-italia/
 thumbnail: /upload/013-940x198.jpg
-categories:
+category:
   - Monte Cassino
   - Presseartikel
 tags:

@@ -7,7 +7,7 @@ layout: post
 
 permalink: /neujahrsempfang-2009-2/
 thumbnail: /upload/za01-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Afghanistan

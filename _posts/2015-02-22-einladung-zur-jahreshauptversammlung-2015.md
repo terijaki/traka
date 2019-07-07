@@ -6,7 +6,7 @@ title: Einladung zur Jahreshauptversammlung 2015
 layout: post
 
 permalink: /einladung-zur-jahreshauptversammlung-2015/
-categories:
+category:
   - Allgemeines
 tags:
   - Kai Michael Horst

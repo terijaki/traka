@@ -7,7 +7,7 @@ layout: post
 
 permalink: /gedenken-an-oberstleutnant-a-d-konrad-rittmeyer/
 thumbnail: /upload/0116-450x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Als Wappen

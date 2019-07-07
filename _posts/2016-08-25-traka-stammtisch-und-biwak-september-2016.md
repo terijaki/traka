@@ -6,7 +6,7 @@ title: Traka-Stammtisch und Biwak (September 2016)
 layout: post
 
 permalink: /traka-stammtisch-und-biwak-september-2016/
-categories:
+category:
   - Allgemeines
 tags:
   - Dieter Kraus

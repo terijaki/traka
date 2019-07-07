@@ -7,7 +7,7 @@ layout: post
 
 permalink: /die-traka-fespahtrp-an-der-maginotlinie/
 thumbnail: /upload/0114-450x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Bei Stromausfall

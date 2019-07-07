@@ -7,7 +7,7 @@ layout: post
 
 permalink: /traka-gedachte-der-toten/
 thumbnail: /upload/za014-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Das Mittagessen

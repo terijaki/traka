@@ -7,7 +7,7 @@ layout: post
 
 permalink: /huttenabend-der-traka-fernspahtruppe-in-herborn/
 thumbnail: /upload/019-400x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Ernst Krug

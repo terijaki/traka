@@ -6,7 +6,7 @@ title: Kranzniederlegung und Gedenkveranstaltung (Herborn)
 layout: post
 
 permalink: /kranzniederlegung-und-gedenkveranstaltung-herborn/
-categories:
+category:
   - Allgemeines
 tags:
   - Marienbader Park

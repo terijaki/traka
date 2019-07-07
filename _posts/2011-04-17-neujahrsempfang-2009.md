@@ -7,7 +7,7 @@ layout: post
 
 permalink: /neujahrsempfang-2009/
 thumbnail: /upload/0115-300x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF

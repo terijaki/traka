@@ -6,7 +6,7 @@ title: Programm für die Gedenkfeier der DMCV auf dem deutschen Soldatenfriedhof
 layout: post
 
 permalink: /programm-fur-die-gedenkfeier-der-dmcv-auf-dem-deutschen-soldatenfriedhof-in-caira-2/
-categories:
+category:
   - Allgemeines
 tags:
   - DMCV

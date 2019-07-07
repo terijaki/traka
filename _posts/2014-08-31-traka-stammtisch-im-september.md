@@ -7,7 +7,7 @@ layout: post
 
 permalink: /traka-stammtisch-im-september/
 thumbnail: /upload/2014/08/Logo_gutshof_gross.png
-categories:
+category:
   - Allgemeines
 ---
 In Kürze wird sich die TraKa wieder zum Stammtisch treffen!

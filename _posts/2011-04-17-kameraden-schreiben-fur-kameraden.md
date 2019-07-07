@@ -7,7 +7,7 @@ layout: post
 
 permalink: /kameraden-schreiben-fur-kameraden/
 thumbnail: /upload/012-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Egon Panz

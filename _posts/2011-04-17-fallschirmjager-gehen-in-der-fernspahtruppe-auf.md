@@ -7,7 +7,7 @@ layout: post
 
 permalink: /fallschirmjager-gehen-in-der-fernspahtruppe-auf/
 thumbnail: /upload/za018-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Bund Deutscher Fallschirmj

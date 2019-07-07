@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-2016/
 thumbnail: /upload/2016/04/P10007231-e1461260312325.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Nachdem Protokollf

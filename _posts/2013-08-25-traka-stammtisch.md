@@ -6,7 +6,7 @@ title: Traka-Stammtisch
 layout: post
 
 permalink: /traka-stammtisch/
-categories:
+category:
   - Allgemeines
 
 ---

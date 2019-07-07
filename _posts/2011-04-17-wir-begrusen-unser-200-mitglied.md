@@ -6,7 +6,7 @@ title: Wir begrüßen unser 200. Mitglied!
 layout: post
 
 permalink: /wir-begrusen-unser-200-mitglied/
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF

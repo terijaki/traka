@@ -7,7 +7,7 @@ layout: post
 
 permalink: /sommerfest-der-dmcv-und-der-traka-fernspahtruppe/
 thumbnail: /upload/2013/07/P1000149.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF

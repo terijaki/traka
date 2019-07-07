@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-2017-der-traka-fespaeh-in-homberg-ohm/
 thumbnail: /upload/2017/07/P1000808.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Die Termine

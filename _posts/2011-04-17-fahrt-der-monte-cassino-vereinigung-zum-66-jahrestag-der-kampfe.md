@@ -7,7 +7,7 @@ layout: post
 
 permalink: /fahrt-der-monte-cassino-vereinigung-zum-66-jahrestag-der-kampfe/
 thumbnail: /upload/017-600x198.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

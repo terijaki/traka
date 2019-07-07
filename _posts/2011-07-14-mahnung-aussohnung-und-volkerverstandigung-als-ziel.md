@@ -7,7 +7,7 @@ layout: post
 
 permalink: /mahnung-aussohnung-und-volkerverstandigung-als-ziel/
 thumbnail: /upload/Sommerfest-2011-2-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Der Freitagnachmittag

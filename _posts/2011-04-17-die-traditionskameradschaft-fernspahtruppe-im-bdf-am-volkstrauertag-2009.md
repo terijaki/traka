@@ -7,7 +7,7 @@ layout: post
 
 permalink: /die-traditionskameradschaft-fernspahtruppe-im-bdf-am-volkstrauertag-2009/
 thumbnail: /upload/0118-500x198.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

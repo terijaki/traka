@@ -7,7 +7,7 @@ layout: post
 
 permalink: /das-sommerfest-der-traditionskameradschaft-fernspaher-im-bdf/
 thumbnail: /upload/IMG_0004-940x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF

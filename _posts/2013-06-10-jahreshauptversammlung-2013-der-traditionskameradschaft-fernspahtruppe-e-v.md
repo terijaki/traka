@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-2013-der-traditionskameradschaft-fernspahtruppe-e-v/
 thumbnail: /upload/2013/06/P1000066.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - DSO

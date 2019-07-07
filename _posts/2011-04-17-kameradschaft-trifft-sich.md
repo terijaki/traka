@@ -7,7 +7,7 @@ layout: post
 
 permalink: /kameradschaft-trifft-sich/
 thumbnail: /upload/za0110-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Cassino Vereinigung

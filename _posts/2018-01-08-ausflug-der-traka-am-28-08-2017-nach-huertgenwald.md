@@ -7,7 +7,7 @@ layout: post
 
 permalink: /ausflug-der-traka-am-28-08-2017-nach-huertgenwald/
 thumbnail: /upload/2017/12/P8260024.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Der Tag

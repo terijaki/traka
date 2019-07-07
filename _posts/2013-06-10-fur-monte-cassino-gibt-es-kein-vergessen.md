@@ -7,7 +7,7 @@ layout: post
 
 permalink: /fur-monte-cassino-gibt-es-kein-vergessen/
 thumbnail: /upload/2013/06/Gedenkfeier-in-Caira-01.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

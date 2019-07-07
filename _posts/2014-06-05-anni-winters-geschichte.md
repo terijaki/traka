@@ -7,7 +7,7 @@ layout: post
 
 permalink: /anni-winters-geschichte/
 thumbnail: /upload/2014/06/P1000365.jpg
-categories:
+category:
   - Monte Cassino
 tags:
   - Leni Winter

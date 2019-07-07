@@ -7,7 +7,7 @@ layout: post
 
 permalink: /ausflug-an-den-hartmannsweiler-kopf/
 thumbnail: /upload/2018/09/HWK.jpg
-categories:
+category:
   - Allgemeines
 tags:
   - Auf Grund

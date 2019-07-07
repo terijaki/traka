@@ -6,7 +6,7 @@ title: Pokalschießen in Herborn
 layout: post
 
 permalink: /pokalschiessen-in-herborn/
-categories:
+category:
   - Allgemeines
 tags:
   - Bernhard Henk

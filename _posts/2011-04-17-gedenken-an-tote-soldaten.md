@@ -7,7 +7,7 @@ layout: post
 
 permalink: /gedenken-an-tote-soldaten/
 thumbnail: /upload/014-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Besucher Halt

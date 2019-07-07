@@ -6,7 +6,7 @@ title: Gedenkveranstaltung am Lahnufer
 layout: post
 
 permalink: /gedenkveranstaltung-am-lahnufer/
-categories:
+category:
   - Allgemeines
 ---
 Samstag, 23. August 2014 um 11 Uhr in Kirschhofen

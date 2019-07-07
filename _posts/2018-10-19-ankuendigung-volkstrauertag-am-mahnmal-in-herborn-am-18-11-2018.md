@@ -6,7 +6,7 @@ title: 'Ankündigung: Volkstrauertag am Mahnmal in Herborn am 18.11.2018'
 layout: post
 
 permalink: /ankuendigung-volkstrauertag-am-mahnmal-in-herborn-am-18-11-2018/
-categories:
+category:
   - Allgemeines
 tags:
   - Egon Panz

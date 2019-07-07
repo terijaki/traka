@@ -6,7 +6,7 @@ title: Einladung zum Ortspokalschießen 2016
 layout: post
 
 permalink: /einladung-zum-ortspokalschiessen-2016/
-categories:
+category:
   - Allgemeines
 tags:
   - Uhr Ab

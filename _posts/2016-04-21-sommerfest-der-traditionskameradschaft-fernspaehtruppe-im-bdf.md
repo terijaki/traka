@@ -7,7 +7,7 @@ layout: post
 
 permalink: /sommerfest-der-traditionskameradschaft-fernspaehtruppe-im-bdf/
 thumbnail: /upload/2016/04/P10003001-e1461260378426.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF

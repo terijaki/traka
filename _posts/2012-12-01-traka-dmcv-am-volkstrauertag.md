@@ -7,7 +7,7 @@ layout: post
 
 permalink: /traka-dmcv-am-volkstrauertag/
 thumbnail: /upload/0141-940x198.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

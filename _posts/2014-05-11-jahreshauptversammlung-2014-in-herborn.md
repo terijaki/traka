@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-2014-in-herborn/
 thumbnail: /upload/2014/05/P1000266.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Cassino Vereinigung

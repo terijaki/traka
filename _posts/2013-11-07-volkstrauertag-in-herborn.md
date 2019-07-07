@@ -6,7 +6,7 @@ title: Volkstrauertag in Herborn
 layout: post
 
 permalink: /volkstrauertag-in-herborn/
-categories:
+category:
   - Allgemeines
 tags:
   - Marienbader Park

@@ -7,7 +7,7 @@ layout: post
 
 permalink: /informationen-zu-unserem-engagement-fur-monte-cassino/
 thumbnail: /upload/015-400x198.jpg
-categories:
+category:
   - Monte Cassino
 tags:
   - BLZ

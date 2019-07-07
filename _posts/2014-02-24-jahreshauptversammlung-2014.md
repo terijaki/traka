@@ -6,7 +6,7 @@ title: Jahreshauptversammlung 2014
 layout: post
 
 permalink: /jahreshauptversammlung-2014/
-categories:
+category:
   - Allgemeines
 
 ---

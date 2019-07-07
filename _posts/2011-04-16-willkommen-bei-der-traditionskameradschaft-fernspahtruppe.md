@@ -4,7 +4,7 @@ title: Willkommen bei der Traditionskameradschaft Fernspähtruppe!
 layout: post
 permalink: /willkommen-bei-der-traditionskameradschaft-fernspahtruppe/
 thumbnail: /upload/2011/04/fallschirmspringer23.jpg
-categories:
+category:
   - Allgemeines
 tags:
   - Bleibt Eurer Truppe

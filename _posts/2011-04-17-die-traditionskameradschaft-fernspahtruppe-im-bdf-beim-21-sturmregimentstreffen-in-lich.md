@@ -2,7 +2,7 @@
 title: Die Traditionskameradschaft Fernspähtruppe im BDF beim 21. Sturmregimentstreffen in Lich
 layout: post
 thumbnail: /upload/0121-550x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Aus Frankreich

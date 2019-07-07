@@ -7,7 +7,7 @@ layout: post
 
 permalink: /wachwechsel-bei-der-traka-mit-neuem-vorsitzenden/
 thumbnail: /upload/20120512-155540-940x198.jpg
-categories:
+category:
   - Allgemeines
   - Veranstaltungen
 tags:

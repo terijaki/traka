@@ -6,7 +6,7 @@ title: Termin Jahreshauptversammlung 2016: 
 layout: post
 
 permalink: /termin-jahreshauptversammlung-2016/
-categories:
+category:
   - Allgemeines
 tags:
   - Der Vorstand

@@ -7,7 +7,7 @@ layout: post
 
 permalink: /kameradschaft-der-fallschirmspringer/
 thumbnail: /upload/za013-408x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Der Vorstand

@@ -9,7 +9,7 @@ permalink: /modell-monte-cassino-das-verdun-des-2-weltkrieges/
 dsq_thread_id:
   - "333394951"
 thumbnail: /upload/model01-800x198.jpg
-categories:
+category:
   - Monte Cassino
 tags:
   - Ernst Krug

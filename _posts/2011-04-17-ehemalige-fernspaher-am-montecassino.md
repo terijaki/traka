@@ -7,7 +7,7 @@ layout: post
 
 permalink: /ehemalige-fernspaher-am-montecassino/
 thumbnail: /upload/za015-804x198.jpg
-categories:
+category:
   - Monte Cassino
   - Presseartikel
 tags:

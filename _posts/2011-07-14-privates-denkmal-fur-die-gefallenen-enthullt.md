@@ -7,7 +7,7 @@ layout: post
 
 permalink: /privates-denkmal-fur-die-gefallenen-enthullt/
 thumbnail: /upload/Sommerfest-2011-002-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Ernst Krug

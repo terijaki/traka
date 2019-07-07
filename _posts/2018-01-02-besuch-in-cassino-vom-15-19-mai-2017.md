@@ -7,7 +7,7 @@ layout: post
 
 permalink: /besuch-in-cassino-vom-15-19-mai-2017/
 thumbnail: /upload/2018/01/0518_55.jpg
-categories:
+category:
   - Monte Cassino
   - Veranstaltungen
 tags:

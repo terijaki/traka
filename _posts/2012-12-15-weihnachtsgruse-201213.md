@@ -7,7 +7,7 @@ layout: post
 
 permalink: /weihnachtsgruse-201213/
 thumbnail: /upload/2012-12-11Weihnachtsgr-297x198.jpg
-categories:
+category:
   - Allgemeines
 tags:
   - Der Vorstand

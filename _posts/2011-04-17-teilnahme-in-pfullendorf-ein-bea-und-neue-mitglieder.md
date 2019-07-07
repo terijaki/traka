@@ -7,7 +7,7 @@ layout: post
 
 permalink: /teilnahme-in-pfullendorf-ein-bea-und-neue-mitglieder/
 thumbnail: /upload/0110-350x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Audi Westphal

@@ -7,7 +7,7 @@ layout: post
 
 permalink: /neujahrsempfang-2008/
 thumbnail: /upload/za017-940x198.jpg
-categories:
+category:
   - Presseartikel
 tags:
   - Bad Rappenau

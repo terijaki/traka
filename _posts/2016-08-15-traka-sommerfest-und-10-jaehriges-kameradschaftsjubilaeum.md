@@ -7,7 +7,7 @@ layout: post
 
 permalink: /traka-sommerfest-und-10-jaehriges-kameradschaftsjubilaeum/
 thumbnail: /upload/2016/08/sommerfest1.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - Bewirtungsgastgeber Ernst Krug

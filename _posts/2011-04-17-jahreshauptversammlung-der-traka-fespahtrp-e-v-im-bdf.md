@@ -7,7 +7,7 @@ layout: post
 
 permalink: /jahreshauptversammlung-der-traka-fespahtrp-e-v-im-bdf/
 thumbnail: /upload/IMG_0037-940x198.jpg
-categories:
+category:
   - Veranstaltungen
 tags:
   - BDF
