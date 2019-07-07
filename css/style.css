@@ -37,6 +37,7 @@ body {
   top: 0;
   left: 78px;
   display: block;
+  cursor: pointer;;
 }
 #nav-menu-container ul {
   padding: 0;
