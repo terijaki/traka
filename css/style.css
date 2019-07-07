@@ -112,7 +112,7 @@ body {
   color: #4c4c4c;
   text-decoration: none;
 }
-#main h4 a:hover {
+#main h4 a:hover, #main .box:hover h4 a {
   color: #74c126;
   text-decoration: none;
 }
@@ -146,13 +146,14 @@ body {
     background-size: cover;
     width: 100%;
     height: 100%;
-    transition: 4s;
 }
 #news .post:hover .thumbnail div {
-    transform: scale(1.2);
+    transform: scale(1.05);
+    transition: 4s;
 }
 #news .post-excerpt {
     padding-bottom: 20px;
+    text-align: justify;
 }
 #news .archive-link {
   text-align: center;
