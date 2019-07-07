@@ -1,27 +1,8 @@
 ---
-
 title: Die Traditionskameradschaft Fernspähtruppe im BDF beim 21. Sturmregimentstreffen in Lich
-
-
 layout: post
-
-permalink: /die-traditionskameradschaft-fernspahtruppe-im-bdf-beim-21-sturmregimentstreffen-in-lich/
 thumbnail: /upload/0121-550x198.jpg
-categories:
-  - Veranstaltungen
-tags:
-  - Aus Frankreich
-  - BDF
-  - Das Treffen
-  - Die Traditionskameradschaft
-  - Ernst Krug
-  - Guten Kameraden
-  - Hotel Holl
-  - Kloster Arnsburg
-  - Lied Rot
-  - Runde Erinnerungen
-  - Wilfried Meurer
-  - Zu Beginn
+categories: [veranstaltungen]
 
 ---
 36 Teilnehmer trafen sich am 24./25 April 2010 im oberhessischen Lich zu ihrer 21. Generalversammlung.
