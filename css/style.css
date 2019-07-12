@@ -209,6 +209,7 @@ body {
   #nav-menu-container ul li {
     display: inline-block;
     background: none;
+    font-size: 1.2rem;
   }
   #nav-menu-container a[href="/"], #nav-menu-container a[href*="dmcv.de"] {
     display: none;
@@ -221,5 +222,8 @@ body {
   #main section > div {
     width: 96%;
     margin: auto;
-}
+  }
+  #header .social-icons {
+    display: none;
+  }
 }
