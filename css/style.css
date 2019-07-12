@@ -204,7 +204,8 @@ body {
     width: 100vw
   }
   #nav-menu-container ul {
-    float: right;
+    position: absolute;
+    right: 0;
     width: calc(100% - 74px);
     margin: 0;
     padding: 0;
