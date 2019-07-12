@@ -41,5 +41,5 @@ Allzeit Glück ab und Semper Fi
 
 <em>Matthias Schneider</em>
 
-![/upload/2018/04/P3240007.jpg](/upload/2018/04/P3240007.jpg)
-![/upload/2018/04/P3240008.jpg](/upload/2018/04/P3240008.jpg)
+[![](/upload/2018/04/P3240007.jpg)](/upload/2018/04/P3240007.jpg)
+[![](/upload/2018/04/P3240008.jpg)](/upload/2018/04/P3240008.jpg)

@@ -36,7 +36,7 @@ Nach diesen interessanten Einblicken hatten sich die Kameradinnen und Kameraden 
 
 Der Tag ging mit einem geselligen Beisammensein in der Unterkunft zu Ende und die Kameradinnen und Kameraden kamen nach der Rückfahrt am Sonntag wieder wohlbehalten zuhause an.
 
-[!(/upload/2018/09/DSC_0091.jpg)](/upload/2018/09/DSC_0091.jpg)
-[!(/upload/2018/09/DSC_0099.jpg)](/upload/2018/09/DSC_0099.jpg)
-[!(/upload/2018/09/DSC_0107.jpg)](/upload/2018/09/DSC_0107.jpg)
-[!(/upload/2018/09/DSC_0112.jpg)](/upload/2018/09/DSC_0112.jpg)
+[![](/upload/2018/09/DSC_0091.jpg)](/upload/2018/09/DSC_0091.jpg)
+[![](/upload/2018/09/DSC_0099.jpg)](/upload/2018/09/DSC_0099.jpg)
+[![](/upload/2018/09/DSC_0107.jpg)](/upload/2018/09/DSC_0107.jpg)
+[![](/upload/2018/09/DSC_0112.jpg)](/upload/2018/09/DSC_0112.jpg)
