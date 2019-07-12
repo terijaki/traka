@@ -20,9 +20,9 @@
           <li><a href="/">Startseite</a></li>
           {% if page.url == "/ueberuns/" %}<li class="active">{% else %}<li>{% endif %}<a href="/ueberuns/">Über uns</a></li>
           {% if page.url == "/chronik/" %}<li class="active">{% else %}<li>{% endif %}<a href="/chronik/">Chronik</a></li>
-          {% if page.category contains "Veranstaltungen" %}<li class="active">{% else %}<li>{% endif %}<a href="/veranstaltungen/">Veranstaltungen</a></li>
+          {% if page.url == "/veranstaltungen/" or page.category contains "Veranstaltungen" %}<li class="active">{% else %}<li>{% endif %}<a href="/veranstaltungen/">Veranstaltungen</a></li>
           {% if page.url == "/presseartikel/" or page.category contains "Presseartikel" %}<li class="active">{% else %}<li>{% endif %}<a href="/presseartikel/">Presseartikel</a></li>
-          {% if page.url == "/montecassino/" %}<li class="active">{% else %}<li>{% endif %}<a href="/montecassino/">Monte Cassino</a></li>
+          {% if page.url == "/montecassino/" or page.category %}<li class="active">{% else %}<li>{% endif %}<a href="/montecassino/">Monte Cassino</a></li>
           <li><a href="https://dmcv.de" target="_blank">DMCV</a></li>
           {% if page.url == "/kontakt/" %}<li class="active">{% else %}<li>{% endif %}<a href="/kontakt/">Kontakt</a></li>
           <li><a href="/upload/2011/04/Aufnahmeantrag.pdf" target="_blank">Aufnahmeantrag</a></li>
@@ -34,8 +34,6 @@
         <a href="https://www.facebook.com/TraKa.FST/" target="_blank" title="Die TraKa auf Facebook!"><i class="fa fa-facebook" aria-hidden="true"></i></a>
         <a href="https://twitter.com/TraKa_FST/" target="_blank" title="Die TraKa auf Twitter!"><i class="fa fa-twitter" aria-hidden="true"></i></a>
       </div>
-      <script async src="https://cse.google.com/cse.js?cx=013118504764970973487:_nbkiqwefik"></script>
-      <div class="gcse-search"></div>
     </div>
   </header>
 <!--===== #header =====-->
