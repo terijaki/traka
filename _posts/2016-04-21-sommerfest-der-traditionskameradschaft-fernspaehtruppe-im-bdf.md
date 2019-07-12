@@ -32,6 +32,3 @@ Am Sonntag morgen fuhr die Sommerfestgesellschaft auf Einladung von Kamerad Diet
 [![](/upload/2016/04/P10006261.jpg)](/upload/2016/04/P10006261.jpg)
 [![](/upload/2016/04/P10006291.jpg)](/upload/2016/04/P10006291.jpg)
 [![](/upload/2016/04/P10006302.jpg)](/upload/2016/04/P10006302.jpg)
-[![](/upload/2016/04/P10007231.jpg)](/upload/2016/04/P10007231.jpg)
-[![](/upload/2016/04/P10007241.jpg)](/upload/2016/04/P10007241.jpg)
-[![](/upload/2016/04/P10007271.jpg)](/upload/2016/04/P10007271.jpg)
