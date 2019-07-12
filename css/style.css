@@ -193,7 +193,28 @@ body {
     border-bottom: 2px #0f5c3c solid;
     padding: 0;
   }
+  #traka-logo {
+    left: 6px;
+    zoom: 0.5;
+  }
   #nav-menu-container ul li {
     display: inline-block;
+    background: none;
   }
+  #nav-menu-container ul {
+    width: 100vw;
+    padding: 0 0 0 76px;
+  }
+  #nav-menu-container a[href="/"], #nav-menu-container a[href*="dmcv.de"] {
+    display: none;
+  }
+  #main > div.container {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+  }
+  #main section > div {
+    width: 96%;
+    margin: auto;
+}
 }
