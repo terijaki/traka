@@ -67,7 +67,7 @@ body {
 #nav-menu-container ul li.active a {
   color: #ffffff;
 }
-#nav-menu-container ul li:hover {
+#nav-menu-container ul li:not(.active):hover {
   background: #0f5c3c;
 }
 #header .social-icons {
