@@ -180,9 +180,15 @@ body {
 
 
 /* --- Mobile View --- */
+@media only screen and (max-width: 992px) {
+  #nav-menu-container ul li {
+    font-size: 1.4rem;
+  }
+}
 @media only screen and (max-width: 768px) {
   #wrapper, body, html {
     width: 100vw;
+    background: #fcf9f6;
   }
   #header div.container {
     height: 80px;
@@ -214,6 +220,9 @@ body {
     display: inline-block;
     background: none;
     font-size: 1.2rem;
+  }
+  #nav-menu-container ul li a {
+    padding: 3px 8px;
   }
   #nav-menu-container a[href="/"], #nav-menu-container a[href*="dmcv.de"] {
     display: none;
