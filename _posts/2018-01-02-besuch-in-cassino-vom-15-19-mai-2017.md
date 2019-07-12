@@ -1,10 +1,6 @@
 ---
-
 title: 'Besuch in Cassino vom 15. &#8211; 19. Mai 2017'
-
-
 layout: post
-
 permalink: /besuch-in-cassino-vom-15-19-mai-2017/
 thumbnail: /upload/2018/01/0518_55.jpg
 category:
@@ -29,4 +25,21 @@ Unsere Kameradin Sheila Wurr aus Schottland hatte einen Kranz der Einheit ihres 
 Nach der Veranstaltung wurde noch zu einem Imbiss und einem Erfrischungsgetränk geladen und die Möglichkeit zum persönlichen Austausch unter den Teilnehmern wurde ausgiebig genutzt.
 Am Nachmittag wurde dem Kloster der obligatorische Besuch abgestattet und damit war der offizielle Teil der Monte-Cassino-Fahrt beendet und man konnte sich im Hotel „Rocca“ entspannt auf die 2-tägige Rückreise vorbereiten.
 
-[gallery type="rectangular" ids="2316,2317,2318,2319,2320,2321,2322,2323,2324,2325,2326,2327,2328,2329,2330,2331,2332,2333,2334,2335"]
+[![](/upload/2018/01/0515_1.jpg)](/upload/2018/01/0515_1.jpg)
+[![](/upload/2018/01/0515_2.jpg)](/upload/2018/01/0515_2.jpg)
+[![](/upload/2018/01/0515_3.jpg)](/upload/2018/01/0515_3.jpg)
+[![](/upload/2018/01/0515_4.jpg)](/upload/2018/01/0515_4.jpg)
+[![](/upload/2018/01/0516_1.jpg)](/upload/2018/01/0516_1.jpg)
+[![](/upload/2018/01/0516_2.jpg)](/upload/2018/01/0516_2.jpg)
+[![](/upload/2018/01/0516_3.jpg)](/upload/2018/01/0516_3.jpg)
+[![](/upload/2018/01/0516_4.jpg)](/upload/2018/01/0516_4.jpg)
+[![](/upload/2018/01/0518_1.jpg)](/upload/2018/01/0518_1.jpg)
+[![](/upload/2018/01/0518_2.jpg)](/upload/2018/01/0518_2.jpg)
+[![](/upload/2018/01/0518_13.jpg)](/upload/2018/01/0518_13.jpg)
+[![](/upload/2018/01/0518_17.jpg)](/upload/2018/01/0518_17.jpg)
+[![](/upload/2018/01/0518_22.jpg)](/upload/2018/01/0518_22.jpg)
+[![](/upload/2018/01/0518_30.jpg)](/upload/2018/01/0518_30.jpg)
+[![](/upload/2018/01/0518_35.jpg)](/upload/2018/01/0518_35.jpg)
+[![](/upload/2018/01/0518_46.jpg)](/upload/2018/01/0518_46.jpg)
+[![](/upload/2018/01/0518_50.jpg)](/upload/2018/01/0518_50.jpg)
+[![](/upload/2018/01/0518_69.jpg)](/upload/2018/01/0518_69.jpg)

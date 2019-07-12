@@ -1,10 +1,6 @@
 ---
-
 title: Gedenken und Gespräche
-
-
 layout: post
-
 permalink: /gedenken-und-gespraeche/
 thumbnail: /upload/2013/12/002.jpg
 category:
@@ -19,8 +15,6 @@ tags:
 ---
 Ein volles Programm hatte DMCV-Vorsitzender Ernst Krug für unseren 3-tägigen Aufenthalt in Monte Cassino zusammengestellt. Im Mittelpunkt stand das Totengedenken am Volkstrauertag auf dem Deutschen Friedhof in Caira. Zudem ging es um die Vorbereitung der 70-Jahrfeierlichkeiten im Mai 2014.
 
-[gallery type="rectangular" link="file" ids="1757,1758,1759,1760,1761,1762" orderby="rand"]
-
 Am Donnerstag, den 14.11.13 machte sich unser Vorkommando auf den Weg. Wir – das sind Vorsitzender Ernst Krug, Dieter Kraus und Pressefrau Erika Müller. Per PKW über den leicht verschneiten Brenner und nach einer Zwischenübernachtung in Südtirol erreichten wir unser Quartier im Hotel Rocca in Cassino.
 
 Was wird für Mai 2014 geplant?
@@ -31,3 +25,9 @@ Am Sonntag trafen sich ca. 150 Teilnehmer auf dem Deutschen Soldatenfriedhof in 
 Damit gingen für uns drei intensiv erlebte Tage vorbei – kein Spaziergang - und doch voller Eindrücke.
 
 <em>Erika Müller</em>
+
+[![](/upload/2013/12/012.jpg)](/upload/2013/12/012.jpg)
+[![](/upload/2013/12/014.jpg)](/upload/2013/12/014.jpg)
+[![](/upload/2013/12/022.jpg)](/upload/2013/12/022.jpg)
+[![](/upload/2013/12/024.jpg)](/upload/2013/12/024.jpg)
+[![](/upload/2013/12/029.jpg)](/upload/2013/12/029.jpg)

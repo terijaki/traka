@@ -1,12 +1,7 @@
 ---
-
 title: Einladung zum Traka-Sommerfest und 10 jährigen Kameradschaftsjubiläum
-
-
 layout: post
-
 permalink: /einladung-zum-traka-sommerfest-und-10-jaehrigen-kameradschaftsjubilaeum/
-thumbnail: /upload/2016/07/pdficon.png
 category:
   - Allgemeines
 tags:
@@ -44,4 +39,6 @@ Der Vorstand freut sich über rege Teilnahme!
 
 Horrido und „Glück ab“!
 <strong><em>Kai Michael Horst</em></strong>
-<small>(1. Kameradschaftsleiter)</small><a href="/upload/2016/07/EinladungSommerfest2016.pdf"><img class="size-thumbnail wp-image-2087" src="/upload/2016/07/pdficon-150x150.png" alt="pdficon" width="64" height="64" /></a>
+<small>(1. Kameradschaftsleiter)</small>
+
+![Einladung zum Sommerfest](/upload/2016/07/EinladungSommerfest2016.pdf)

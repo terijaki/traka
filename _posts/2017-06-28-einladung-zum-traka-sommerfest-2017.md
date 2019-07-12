@@ -1,10 +1,6 @@
 ---
-
 title: Einladung zum Traka-Sommerfest 2017
-
-
 layout: post
-
 permalink: /einladung-zum-traka-sommerfest-2017/
 category:
   - Allgemeines

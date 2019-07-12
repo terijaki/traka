@@ -1,10 +1,6 @@
 ---
-
 title: Jahreshauptversammlung 2017 der TRAKA FeSpäh in Homberg (Ohm)
-
-
 layout: post
-
 permalink: /jahreshauptversammlung-2017-der-traka-fespaeh-in-homberg-ohm/
 thumbnail: /upload/2017/07/P1000808.jpg
 category:
@@ -17,7 +13,6 @@ tags:
 ---
 Vorsitzender Kai-Michael Horst begrüßte die 19 Teilnehmer im Güntersteiner Hof. Traditionsgemäß wurde zu Beginn gemeinsam das Lied der Fallschirmjäger "Rot scheint die Sonne" gesungen. Danach folgte die Totenehrung. Karl Sänger erinnerte an die Jahreshauptversammlung 2016 und verlas das Protokoll. Vorstandsvorsitzender Kai-Michael Horst gab einen Überblick über die Aktivitäten des vergangenen Jahres.
 
-<a href="/upload/2017/07/P1000808.jpg"><img class="aligncenter size-large wp-image-2231" src="/upload/2017/07/P1000808-1024x768.jpg" alt="" height="338" /></a>
 Ein Highlight dürfte hierbei das Sommerfest und 10-jährige Kameradschaftsjubiläum in Erbenhausen gewesen sein. Geschäftsführer Egon Panz hatte sich mit der Altersstruktur der Mitglieder beschäftigt und interessante Daten vorgelegt. Als neuer Kassenprüfer wurde Bruno Kohlhauer einstimmig gewählt. Im Folgenden diskutierte man die diesjährigen Veranstaltungen. Ehemalige Fallschirmjäger, die interessiert und noch kein Mitglied sind, sind herzlich eingeladen, sich von dem vielfältigen Angebot zu überzeugen und sich vielleicht dem Kreis der Kameraden anzuschließen.
 
 Die Termine:

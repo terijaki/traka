@@ -1,10 +1,6 @@
 ---
-
 title: Bericht zur Jahreshauptversammlung der Traditionskameradschaft Fernspähtruppe e.V. im BDF vom 24.03.2018
-
-
 layout: post
-
 permalink: /bericht-zur-jahreshauptversammlung-der-traditionskameradschaft-fernspaehtruppe-e-v-im-bdf-vom-24-03-2018/
 thumbnail: /upload/2018/04/P3240014.jpg
 category:

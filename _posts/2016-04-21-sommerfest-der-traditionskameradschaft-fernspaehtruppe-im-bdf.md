@@ -25,4 +25,13 @@ In wenigen Sätzen machte er den Hintergrund der Schlacht in den Jahren 1943/44 
 Im weiteren Verlauf des Abends unterhielt Jürgen “Keule“ Büttner die Kameradschaft, wie immer hervorragend auch mit italienischen Weisen. Nach dem Abendessen begann der Kameradschaftsabend in geselliger Runde.
 Am Sonntag morgen fuhr die Sommerfestgesellschaft auf Einladung von Kamerad Dieter nach Wetzlar. Hier gab es eine Sammlung historischer Militärfahrzeuge zu besichtigen. Dazu spielte das Trio „Waldhof“ und die „Royal Trampels Bumser“, bekannt aus Funk und Fernsehen.
 
-[gallery type="rectangular" link="file" ids="2051,2057,2056,2055,2054,2053,2052" orderby="rand"]
+[![](/upload/2016/04/P10003001.jpg)](/upload/2016/04/P10003001.jpg)
+[![](/upload/2016/04/P10006191.jpg)](/upload/2016/04/P10006191.jpg)
+[![](/upload/2016/04/P10006211.jpg)](/upload/2016/04/P10006211.jpg)
+[![](/upload/2016/04/P10006231.jpg)](/upload/2016/04/P10006231.jpg)
+[![](/upload/2016/04/P10006261.jpg)](/upload/2016/04/P10006261.jpg)
+[![](/upload/2016/04/P10006291.jpg)](/upload/2016/04/P10006291.jpg)
+[![](/upload/2016/04/P10006302.jpg)](/upload/2016/04/P10006302.jpg)
+[![](/upload/2016/04/P10007231.jpg)](/upload/2016/04/P10007231.jpg)
+[![](/upload/2016/04/P10007241.jpg)](/upload/2016/04/P10007241.jpg)
+[![](/upload/2016/04/P10007271.jpg)](/upload/2016/04/P10007271.jpg)

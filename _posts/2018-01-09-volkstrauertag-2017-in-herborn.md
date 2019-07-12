@@ -1,10 +1,6 @@
 ---
-
 title: Volkstrauertag 2017 in Herborn
-
-
 layout: post
-
 permalink: /volkstrauertag-2017-in-herborn/
 category:
   - Allgemeines

@@ -1,10 +1,6 @@
 ---
-
 title: Pokalschießen in Herborn
-
-
 layout: post
-
 permalink: /pokalschiessen-in-herborn/
 category:
   - Allgemeines
