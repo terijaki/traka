@@ -27,7 +27,7 @@ Von diesen Erlebnisse möchte ich hier berichten. Dafür standen mir persönlich
 Im Sommer 1944 befinden sich die deutschen Armeen an alle Fronten auf dem Rückzug.
 Mit der Operation Market Garden wollen die West-Alliierten durch Holland hindurch auf deutschen Boden vorstoßen, um den Krieg noch im selben Jahr zu beenden. Jedoch sind ihre Annahmen über Position, Stärke und Zustand der deutschen Truppen in der Gegend von Arnheim zu ungenau und zu optimistisch, eine umfassende Feindaufklärung wird vernachlässigt. Auf eine Berücksichtigung von Informationen holländischer Militär-Experten wurde verzichtet. Die britischen Soldaten wissen nicht, was sie erwartet. Die 1. Britische Luftlande-Division soll die Speerspitze des Unternehmens übernehmen und die Rhein-Brücke bei Arnheim von deutschen Kräften befreien und bis zum Eintreffen der eigenen nachrückenden Kräfte halten.
 
-[![](/upload/2018/05/bild1-176x300.jpg)](/upload/2018/05/bild1.jpg)
+[![](/upload/2018/05/bild1.jpg)](/upload/2018/05/bild1.jpg)
 
 Aus den Berichten von Major John Pott:
 Am Montag, den 18. September wurde das 156. Bataillon am frühen Nachmittag auf der Ginkel Heide abgesetzt. Die Männer gerieten dabei unter Beschuss von SS Einheiten. Es kam zu Verlusten schon beim Absprung aus den Flugzeugen, in der Landezone, die mit Gewehr und MG-Feuer eingedeckt wurde und bei Landungen in Bäumen, sowie im Bereich der deutschen Stellungen. Die Hälfte des MG-Zuges des Bataillons wurde bereits in der Nähe von Nimwegen mit ihrem Flugzeug abgeschossen.
