@@ -197,13 +197,18 @@ body {
     left: 6px;
     zoom: 0.5;
   }
+  #nav-menu-container {
+    width: 100vw
+  }
+  #nav-menu-container ul {
+    float: right;
+    width: calc(100% - 74px);
+    margin: 0;
+    padding: 0;
+  }
   #nav-menu-container ul li {
     display: inline-block;
     background: none;
-  }
-  #nav-menu-container ul {
-    width: 100vw;
-    padding: 0 0 0 76px;
   }
   #nav-menu-container a[href="/"], #nav-menu-container a[href*="dmcv.de"] {
     display: none;
