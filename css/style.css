@@ -53,8 +53,6 @@ body {
   color: #fff;
 }
 #nav-menu-container ul li {
-  background-position: bottom;
-  background-repeat: repeat-x;
   line-height: 24px;
   list-style: none;
   background: url(/upload/nav_break_main.gif);
@@ -178,4 +176,24 @@ body {
 /* --- Footer --- */
 #footer {
   display: none;
+}
+
+
+/* --- Mobile View --- */
+@media only screen and (max-width: 768px) {
+  #header div.container {
+    height: 80px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    float: none;
+    display: block;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px #0f5c3c solid;
+    padding: 0;
+  }
+  #nav-menu-container ul li {
+    display: inline-block;
+  }
 }
