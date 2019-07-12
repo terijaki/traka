@@ -1,14 +1,10 @@
 ---
-
 title: Die DMCV in Monte Cassino 2011
-
-
 layout: post
-
 permalink: /die-dmcv-in-monte-cassino-2011/
 twitter_id:
   - "81338978795667456"
-thumbnail: /upload/20110616-011805-940x198.jpg
+thumbnail: /upload/20110616-011805.jpg
 category:
   - Monte Cassino
   - Veranstaltungen
@@ -24,8 +20,6 @@ Samstag, 14. Mai 2011.
 27 Teilnehmer, darunter 7 Veteranen, für die Fallschirmjägerkameradschaft Frankfurt Wiesbaden Jerry mit Fahne auf dem Weg nach Italien. Drei Kleinbusse gesteuert von
 Kai Michael, Bernd und Ernst Krug. Zwischenübernachtung in Leifers bei Bozen. Ein grauer Tag im Regen jenseits der Alpen auf der Strada del sol bis hinunter nach Cassino.
 Ernst Krug, Vorsitzender der Deutschen Monte Cassino Vereinigung hat die Fahrt organisiert und ein Programm für fast 6 Tage zusammengestellt. Für die Veteranen ein Wiedersehen mit den Stätten ihrer Kämpfe, Siege und Niederlagen.
-
-[gallery link="file"]
 
 Tag 1 - Sonntag nach der Anfahrt.
 Nachmittags amerikanische Gedenkstätte San Angelo. An der alten Brücke über dem Rapido dominiert die große Freiheitsglocke den Platz. Ein Gewitter geht nieder, über der Szene spannt sich ein Regenbogen. Versammelt die Bürgermeisterin der Stadt Cassino mit der landesüblichen Schärpe, amerikanische Abordnungen, Veteranen aus Texas, Vertreter Neuseelands, Polens, Südafrikas und Kanadas. Für die DMCV sind Audi und Ingo mit einem Kranz angetreten. Flankiert von Hans und Bernd senkt Kai Michael die Fahne zu den Klängen von „Il silenzio“. Am Rednerpult unter dem Sternenbanner DMCV Vorsitzender Ernst Krug, Applaus für seine eindringlichen Worte zu Erinnerung, Frieden und Versöhnung. Noch nie hat ein Deutscher an dieser Stelle gestanden. Anschließend werden die Kränze von der Brücke herab den Wellen des Rapido übergeben. „Mögen sie unsere lauten Stimmen nach Frieden hinaustragen in die Welt“ hatte die Bürgermeisterin zuvor gesagt.
@@ -50,4 +44,12 @@ Private militärhistorische Sammlung mit nachgestellten Szenen entlang der „Wi
 
 Zeitig am nächsten Tag die Abfahrt in Richtung Heimat. Im Hotel Rotwand in Leifers die Zwischenübernachtung mit Kameradschaftsabend. Frieder dankt dem Vorsitzenden im Namen der gesamten Gruppe für die aufwendige Vorbereitung und Organisation, reichlich Beifall. Am nächsten Morgen Abfahrt nach Hause.
 
-Erika Müller
+*Erika Müller*
+
+
+[![](/upload/20110616-011816.jpg)](/upload/20110616-011816.jpg)
+[![](/upload/20110616-011825.jpg)](/upload/20110616-011825.jpg)
+[![](/upload/20110616-011833.jpg)](/upload/20110616-011833.jpg)
+[![](/upload/20110616-011843.jpg)](/upload/20110616-011843.jpg)
+[![](/upload/20110616-011908.jpg)](/upload/20110616-011908.jpg)
+[![](/upload/20110616-011917.jpg)](/upload/20110616-011917.jpg)

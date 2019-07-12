@@ -1,12 +1,8 @@
 ---
-
 title: Kameraden schreiben für Kameraden
-
-
 layout: post
-
 permalink: /kameraden-schreiben-fur-kameraden/
-thumbnail: /upload/012-940x198.jpg
+thumbnail: /upload/012.jpg
 category:
   - Presseartikel
 tags:
@@ -17,7 +13,8 @@ tags:
   - Walter Jannetta
 
 ---
-[gallery link="file" columns="4" orderby="title"]
+
+[![](/upload/02.jpg)](/upload/02.jpg)
 
 Traditionskameradschaft Fernspähtruppe im BDF
 
