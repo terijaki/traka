@@ -1,12 +1,8 @@
 ---
-
 title: Fallschirmjäger feierten Jubiläum
-
-
 layout: post
-
 permalink: /fallschirmjager-feierten-jubilaum/
-thumbnail: /upload/za0111-940x198.jpg
+thumbnail: /upload/za0111.jpg
 category:
   - Presseartikel
 tags:
@@ -21,7 +17,7 @@ tags:
   - Standort Herbornseelbach
 
 ---
-<a href="/upload/za0111.jpg"><img class="wp-image-211" title="za01" src="/upload/za0111-300x194.jpg" alt="" height="194" /></a>Zusammenschluss blickte auf sein 20-jähriges Bestehen zurück - Mitglieder geehrt
+Zusammenschluss blickte auf sein 20-jähriges Bestehen zurück - Mitglieder geehrt
 
 Dillenburg/Herborn (ch). Gleich sechs treue Mitglieder konnte die „Falschirmjäger-Kameradschaft Dillenburg“ jetzt anlässlich ihres 20-jährigen Bestehens auszeichnen. Schauplatz der Zusammenkunft war die Gaststätte des Kameraden Lothar Gräb in Herborn.
 Kameradschaftsleiter Karl Schramm hieß die Erschienenen willkommen, darunter auch die Frauen von verstorbenen Kameraden sowie den Landeskameradschaftsleiter Wilfried Heidenreich und den Kameradschaftsleiter der Fernspäh-Kameradschaft, den ehemaligen Fallschirmjäger der Bundeswehr im Standort Herbornseelbach, Ernst Krug.

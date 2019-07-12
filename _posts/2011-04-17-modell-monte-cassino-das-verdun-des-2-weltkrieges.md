@@ -1,14 +1,10 @@
 ---
-
 title: Modell Monte Cassino – DAS VERDUN DES 2. WELTKRIEGES
-
-
 layout: post
-
 permalink: /modell-monte-cassino-das-verdun-des-2-weltkrieges/
 dsq_thread_id:
   - "333394951"
-thumbnail: /upload/model01-800x198.jpg
+thumbnail: /upload/model01.jpg
 category:
   - Monte Cassino
 tags:
@@ -20,8 +16,6 @@ tags:
   - WELTKRIEGES
 
 ---
-<a href="/upload/model01.jpg"><img class="alignnone wp-image-384" title="Model Monte Cassino" src="/upload/model01-300x225.jpg" alt="" height="225" /></a> <a href="/upload/model02.jpg"><img class="wp-image-385 alignnone" title="Model Monte Cassino" src="/upload/model02-300x225.jpg" alt="" height="225" /></a>
-
 Ein Objekt von militärhistorischer Bedeutung ist in Kürze im mittelhessischen Homberg-Erbenhausen zu besichtigen. Im Obergeschoß seines privaten Bauernhofmuseums hat Ernst Krug, seit Sept.2009 Vorsitzender der Deutschen Monte-Cassino-Vereinigung, einen besonderen Raum eingerichtet. Vor 50 Jahren war sie von Oberst Rudolf Böhmler gegründet worden und hat noch immer ca. 400 Mitglieder. Ein Diorama macht auf einer Fläche von ca. 18 qm die Kampf- handlungen in Mittelitalien vom 12.01.- 25.05.1944 sichtbar.
 
 Im Maßstab 1:10 000 sind mit den Materialien des traditionellen Modellbaus Soldaten, Panzer, LKW’s und Geschütze detailgetreu nachgebildet. Flussläufe, Bahngleise und Verteidigungslinien ziehen durch das unwegsame Berggelände. Friedhöfe der beteiligten Nationen sind markiert. 1000 Einzelobjekte mit 200 Miniaturen im Maßstab 1:1800 und 260 Fahrzeugen, davon 130 der Wehrmacht, 130 der Alliierten veranschaulichen das Kampfgeschehen im Winter 1944. Das Gefechtsfeld entspricht von N nach S einer räumlichen Tiefe von 35km, von W nach O von 25km. Separat und besonders eingehend sind die Vorgänge um Anzio dargestellt. Hier landeten die Engländer, in Nettuno die Amerikaner.

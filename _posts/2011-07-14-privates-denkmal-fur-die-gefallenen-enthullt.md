@@ -1,12 +1,8 @@
 ---
-
 title: Privates Denkmal für die Gefallenen enthüllt
-
-
 layout: post
-
 permalink: /privates-denkmal-fur-die-gefallenen-enthullt/
-thumbnail: /upload/Sommerfest-2011-002-940x198.jpg
+thumbnail: /upload/Sommerfest-2011-002.jpg
 category:
   - Presseartikel
 tags:
@@ -18,7 +14,7 @@ tags:
   - Sommerfest
 
 ---
-<a href="/upload/Sommerfest-2011-002-e1310635128157.jpg"><img class="alignright wp-image-822" title="Sommerfest 2011 - 2" src="/upload/Sommerfest-2011-002-e1310635128157-253x300.jpg" alt="Privates Denkmal für die Gefallenen enthüllt" width="253" height="300" /></a>Soldatenkameradschaft »Traka fernspähtruppe« feierte ihr Sommerfest - Teilnehmer formierten sich zum Zug
+Soldatenkameradschaft »Traka fernspähtruppe« feierte ihr Sommerfest - Teilnehmer formierten sich zum Zug
 
 Homberg- Erbenhausen (pm). In ihren Clubräumen in Erbenhausen feierte dieser Tage die Soldatenkameradschaft »Traka fernspähtruppe« ihr Sommerfest. Vor zehn Jahren von Ernst Krug für  für seine ehemaligen Kameraden gegründet, gehören ihr heute über 200 Mitglieder an. Seit zwei Jahren ist Krug auch Vorsitzender der Deutschen Monte-Cassino-Vereinigung. (DMCV). Ihr Ziel ist Mahnung, Völkerverständigung, Aussöhnung sowie das Wachhalten der Erinnerung an eine der blutigsten Sclachten des 2. Weltkrieges. Sie kostete im WInter 1943/44 über 100.000 Soldaten und Zivilisten das Leben. Seit Jahren besucht Ernst Krug die Originalschauplätze in der Region Cassino und recherchiert bei den immer weniger werdenden Zeitzeugen. Für die Veteranen und andere Interessenten organisiert er Fahren, um die Soldatenfriedhöfe und Kriegsschauplätze aufzusuchen.
 Zu Beginn des Sommerfestes war im neuen Monte-Cassino-Raum das Diorama zu den einzelnen Kampfhandlungen zu besichtigen. Auch Krugs privates Bauernhofmuseum öffnete seine Pforten für die Besucher. Über 90 Teilnehmer aus allen Bundesländern waren gekommen, Veteranen und 15 italienische Freunde, darunter Bersagleris in ihren historischen Paradeuniformen, ebenso wie Teilnehmer aus dem VOgelsberg. Der Freitagnachmittag stand im Zeichen der Ereignisse von 1944. Schon immer hat Krug bedauert, dass es in Deutschland keine Gedenkstätte gibt für die Toten, die in der Hölle von Monte Cassino ihr Leben verloren. Das veranlasste ihn, in seinem Garten ein Mahnnmal zu errichten.

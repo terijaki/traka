@@ -1,12 +1,8 @@
 ---
-
 title: Mahnung, Aussöhnung und Völkerverständigung als Ziel
-
-
 layout: post
-
 permalink: /mahnung-aussohnung-und-volkerverstandigung-als-ziel/
-thumbnail: /upload/Sommerfest-2011-2-940x198.jpg
+thumbnail: /upload/Sommerfest-2011-2.jpg
 category:
   - Presseartikel
 tags:
@@ -24,7 +20,7 @@ tags:
   - Traka Fernsp
 
 ---
-<a href="/upload/Sommerfest-2011-2-e1310632301977.jpg"><img class="wp-image-800 alignleft" title="Sommerfest 2011 - 1" src="/upload/Sommerfest-2011-2-e1310632301977-217x300.jpg" alt="Mahnung, Aussöhnung und Völkerverständigung" width="217" height="300" /></a><em>Soldatenkameradschaft "Traka Fernspähtrupp" feierte ihr Sommerfest in Erbenhausen</em>
+<em>Soldatenkameradschaft "Traka Fernspähtrupp" feierte ihr Sommerfest in Erbenhausen</em>
 
 ERBENHAUSEN (red). In ihren Clubräumen in Erbenhausen feierte am vergangenen Wochenende die SOldatenkameradschaft "Traka Fernspähtruppe" ihr Sommerfest. Vor zehn Jahren von Ernst Krug für seine ehemaligen Kameraden gegründet, gehören ihr heute über 200 Mitglieder an.
 

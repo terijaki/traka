@@ -1,12 +1,8 @@
 ---
-
 title: Weihnachtsgrüße 2012/13
-
-
 layout: post
-
 permalink: /weihnachtsgruse-201213/
-thumbnail: /upload/2012-12-11Weihnachtsgr-297x198.jpg
+thumbnail: /upload/2012-12-11Weihnachtsgr.jpg
 category:
   - Allgemeines
 tags:
@@ -21,7 +17,7 @@ Liebe Kameradinnen und Kameraden!
 
 ￼Der Vorstand bedankt sich herzlich bei allen Mitgliedern für die Unterstützung im vergangen Jahr.
 Ihnen und Ihren Angehörigen wünschen wir ein „Frohes und Gesegnetes Weihnachtsfest“ und ein „Gesundes Neues Jahr 2013“.
-<p style="text-align: justify;"><span style="text-decoration: underline;"><strong><img class="alignright size-thumbnail wp-image-1586" alt="2012-12-11Weihnachtsgr" src="/upload/2012-12-11Weihnachtsgr-150x150.jpg" height="150" />„Weihnachten“ von Theodor Fontane</strong></span>
+<p style="text-align: justify;"><span style="text-decoration: underline;"><strong>„Weihnachten“ von Theodor Fontane</strong></span>
 Noch einmal ein Weihnachtsfest,
 Immer kleiner wird der Rest,
 Aber nehm ich so die Summe,

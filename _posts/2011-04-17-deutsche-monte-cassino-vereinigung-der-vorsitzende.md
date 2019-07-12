@@ -1,10 +1,6 @@
 ---
-
 title: 'Deutsche Monte Cassino Vereinigung &#8211; der Vorsitzende'
-
-
 layout: post
-
 permalink: /deutsche-monte-cassino-vereinigung-der-vorsitzende/
 category:
   - Monte Cassino

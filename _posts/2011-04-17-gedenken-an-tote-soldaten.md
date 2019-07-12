@@ -6,7 +6,7 @@ title: Gedenken an tote Soldaten
 layout: post
 
 permalink: /gedenken-an-tote-soldaten/
-thumbnail: /upload/014-940x198.jpg
+thumbnail: /upload/014.jpg
 category:
   - Presseartikel
 tags:
@@ -21,8 +21,6 @@ tags:
   - Zehn Mann
 
 ---
-<a href="/upload/014.jpg"><img class="wp-image-257 aligncenter" title="Zeitungsausschnitt" src="/upload/014-300x101.jpg" alt="Bundeswehr-Reservisten aus Wetzlar und Herborn gedachten an der Lahn ihrer vor 33 Jahren umgekommenen Kameraden. Wegen des Hochwassers war die etwa 100 Meter entfernte Gedenktafel am Sonntag nicht erreichbar. (Foto: Nobbe)" height="101" /></a>
-
 <strong>Reservisten versammeln sich an der Lahn bei Kirschhofen</strong>
 
 Weilburg-Kirschhofen (dn). Am Volkstrauertag hbaen sich Mitglieder von Reservisten-Einheiten an der Lahn bei Kirschhofen versammelt, um ihrer zwei Kameraden von der Fernspähkompanie 300 zu gedenken, die im August 1977 bei einer Bootsuebung am Kirschhöfer Wehr ertranken.

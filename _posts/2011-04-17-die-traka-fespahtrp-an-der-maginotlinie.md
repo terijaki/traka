@@ -1,12 +1,8 @@
 ---
-
 title: Die TraKa FeSpähTrp an der Maginotlinie
-
-
 layout: post
-
 permalink: /die-traka-fespahtrp-an-der-maginotlinie/
-thumbnail: /upload/0114-450x198.jpg
+thumbnail: /upload/0114.jpg
 category:
   - Veranstaltungen
 tags:
@@ -35,7 +31,7 @@ Anschließend stand die Stadt Speyer auf dem Programm. Es konnten alternativ das
 
 Im idyllischen Weinort Geinsheim westlich von Speyer fand dann ein stimmungsvoller Kameradschaftsabend statt, der allen noch lange in Erinnerung bleiben wird.
 
-<a href="/upload/0114.jpg"><img class="alignright wp-image-455" title="Maginot" src="/upload/0114-300x201.jpg" alt="" height="201" /></a>Am nächsten Morgen ging es weiter in Richtung französische Grenze zum Fort Schoenenbourg, der bedeutendsten Bunkeranlage der 700 km langen Maginotlinie. Gästeführerin Mme. Irène führte die Besucher 135 Stufen hinunter in eine Tiefe von 30m. Es ging durch ein Labyrinth von endlos scheinenden gemauerten Gängen, über Schienen und Schächte, entlang an Rohren und Kabeln. Die seitlichen Nischen gewähren Einblick in die Betonblocks für Unterkünfte, Speiseräume, die Küche, das Lazarett mit OP-Raum, das Kraftwerk, die Kommandostelle mit Nachrichtentechnik sowie für die gesamte Versorgung mit Wasser / Abwasser, Elektrizität und Belüftung. 70 Elektriker hatten eine reibungslose Funktion zu gewährleisten. Die Kuppeln mit den Gefechtsköpfen ließen sich mit einer komplizierten Mechanik über die Erdoberfläche ausfahren. Bei Stromausfall wurde eine Handkurbel in Betrieb genommen.
+Am nächsten Morgen ging es weiter in Richtung französische Grenze zum Fort Schoenenbourg, der bedeutendsten Bunkeranlage der 700 km langen Maginotlinie. Gästeführerin Mme. Irène führte die Besucher 135 Stufen hinunter in eine Tiefe von 30m. Es ging durch ein Labyrinth von endlos scheinenden gemauerten Gängen, über Schienen und Schächte, entlang an Rohren und Kabeln. Die seitlichen Nischen gewähren Einblick in die Betonblocks für Unterkünfte, Speiseräume, die Küche, das Lazarett mit OP-Raum, das Kraftwerk, die Kommandostelle mit Nachrichtentechnik sowie für die gesamte Versorgung mit Wasser / Abwasser, Elektrizität und Belüftung. 70 Elektriker hatten eine reibungslose Funktion zu gewährleisten. Die Kuppeln mit den Gefechtsköpfen ließen sich mit einer komplizierten Mechanik über die Erdoberfläche ausfahren. Bei Stromausfall wurde eine Handkurbel in Betrieb genommen.
 
 Nach 3 Stunden stieg die Gruppe wieder hinauf an’s Tageslicht. Abschreckung, Schutz und Verteidigung sollte das gewaltige Grenzsicherungs-System garantieren. Der französische Minister André Maginot hatte es zwischen 1930 und 1936 für 5 Mrd.alte Francs anlegen lassen. Am 1.Juli 1940 mußte das Fort Schoenenbourg kapitulieren. Seine Mannschaft wurde in eine lange Gefangenschaft abgeführt. Deutsche Soldaten hielten es bis zum Kriegsende besetzt. Im J. 1982 übernahm die französische Vereinigung „Freunde der Maginotlinie“ die Trägerschaft für die gesamten Anlage und hält die interessantesten Abschnitte für Besucher zugänglich.
 

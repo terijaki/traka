@@ -1,12 +1,8 @@
 ---
-
 title: TraKa stellte sich Bürgermeister Hans Brenner vor
-
-
 layout: post
-
 permalink: /traka-stellte-sich-burgermeister-hans-brenner-vor/
-thumbnail: /upload/za012-940x198.jpg
+thumbnail: /upload/za012.jpg
 category:
   - Presseartikel
 tags:
@@ -24,7 +20,7 @@ tags:
   - Traditions Kameradschaft Fernsp
 
 ---
-<a href="/upload/za012.jpg"><img class="wp-image-176" title="za01" src="/upload/za012-271x300.jpg" alt="" width="271" height="300" /></a>Neuer Zusammenschluss von einstmals in Herbonseelbach stationierten Soldaten gegründet
+Neuer Zusammenschluss von einstmals in Herbonseelbach stationierten Soldaten gegründet
 
 Herborn/Herborn-Seelbach (klk). In Herborn gibt es einen neuen Verein: Die Traditions-Kameradschaft Fernspähtruppe e.V. im Bund Deutscher Fallschirmjäger. Der Vorstand des Anfang April ins Leben gerufenen Vereins der in der ehemaligen Herbornseelbacher Kaserne stationierten Soldaten stellte sich jetzt bei Bürgermeister Hans Brenner vor. Das Wiedersehen mit dem Initiator der Vereinigung, dem langjährigen ehemaligen Spieß Ernst Krug, weckte auch beim in Herbonseelbach wohnenden Stadtoberhaupt Erinnerungen an alte Zeiten.
 

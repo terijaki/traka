@@ -1,12 +1,8 @@
 ---
-
 title: Neujahrsempfang 2008
-
-
 layout: post
-
 permalink: /neujahrsempfang-2008/
-thumbnail: /upload/za017-940x198.jpg
+thumbnail: /upload/za017.jpg
 category:
   - Presseartikel
 tags:
@@ -19,7 +15,7 @@ tags:
   - Zur Kameradschaft
 
 ---
-<a href="/upload/za017.jpg"><img class="wp-image-198" title="za01" src="/upload/za017-300x113.jpg" alt="" height="113" /></a>Zur Kameradschaft in die alte Steinscheune
+Zur Kameradschaft in die alte Steinscheune
 
 Neujahrsempfang der Soldatenkameradschaft in Erbenhausen – Rückblick auf das Jahr 2007 – Zahlreiche Grußbotschaften
 

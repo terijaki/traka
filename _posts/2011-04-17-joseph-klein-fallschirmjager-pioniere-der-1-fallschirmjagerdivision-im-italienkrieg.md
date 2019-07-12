@@ -1,12 +1,8 @@
 ---
-
 title: 'Joseph Klein Fallschirmjäger &#8211; Pioniere der 1. Fallschirmjägerdivision im Italienkrieg'
-
-
 layout: post
-
 permalink: /joseph-klein-fallschirmjager-pioniere-der-1-fallschirmjagerdivision-im-italienkrieg/
-thumbnail: /upload/buch01-450x198.jpg
+thumbnail: /upload/buch01.jpg
 category:
   - Monte Cassino
 tags:
@@ -31,8 +27,6 @@ Für Kriegsteilnehmer und geschichtlich Interessierte auf Wunsch auch mit persö
 Bezug über den Eigenverlag Joseph Klein, Meinstraße 13, in 38448 Wolfsburg, Fax.: 05363/71273 oder joseph.klein@gmx.de Stückpreis in Deutschland 25,00 € Europa &amp; Welt 28,00 € (einschl Porto u. Versand)
 Davon sind 15,00 € eine Spende an die Monte Cassino Stiftung zur Pflege und Erhaltung des deutschen Soldatenfriedhofs Cassino und für das Mahnmal Cassino zur Völkerverständigung und wider den Krieg.
 Bei Kauf von 2 Büchern, Erhalt einer Spendenquittung über 50,00 €, bzw 56,00 € von der Deutschen Monte Cassino Stiftung.
-
-[caption id="attachment_302" align="alignright" caption="Pioniere der 1. Fallschirmjägerdivision"]<a href="/upload/buch01.jpg"><img class="wp-image-302       " title="Fallschirmjäger" src="/upload/buch01-225x300.jpg" alt="Pioniere der 1. Fallschirmjägerdivision im Italienkrieg" /></a>[/caption]
 
 Zum Inhalt des Buches
 Joseph Klein, der Verfasser der Erlebnisberichte von Fronteinsatz der Fallschirmjägerdivision, wurde als Gruppenführer bei den Kämpfen in Sizilien eingesetzt und beendete den Krieg nach zahlreichen Einsätzen als Leutnant und Führer einer Fallschirm-Pionierkompanie mit der Kapitulation der deutschen Südarmee in den Alpen.

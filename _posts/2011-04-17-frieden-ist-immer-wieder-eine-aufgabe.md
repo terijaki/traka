@@ -1,12 +1,8 @@
 ---
-
 title: Frieden ist immer wieder eine Aufgabe
-
-
 layout: post
-
 permalink: /frieden-ist-immer-wieder-eine-aufgabe/
-thumbnail: /upload/za02-768x198.jpg
+thumbnail: /upload/za02.jpg
 category:
   - Presseartikel
   - Veranstaltungen
@@ -23,7 +19,7 @@ tags:
   - Viele Gedenkfeiern
 
 ---
-<a href="/upload/za02.jpg"><img class="wp-image-242" title="za02" src="/upload/za02-225x300.jpg" alt="" /></a>„Frieden und Versöhnung sind keine Selbstverständlichkeit“: Bürgermeister Hans Benner und Bezirksdekan Michael Niermann (r.) sprachen sich gestern bei der Gedenkfeier im Marienbader Park in Herborn für mehr Verantwortungsgefühl und Engagement jedes einzelnen Bürgers aus.
+„Frieden und Versöhnung sind keine Selbstverständlichkeit“: Bürgermeister Hans Benner und Bezirksdekan Michael Niermann (r.) sprachen sich gestern bei der Gedenkfeier im Marienbader Park in Herborn für mehr Verantwortungsgefühl und Engagement jedes einzelnen Bürgers aus.
 
 <strong>“Frieden ist immer wieder eine Aufgabe“</strong>
 Herborn (klk/s). Viele Gedenkfeiern anlässlich des Volkstrauertags haben gestern die Menschen zusammengeführt. Überall gedachten sie der Opfer der beiden Weltkriege und der ermordeten, verfolgten und vertriebenen Menschen auch in anderen Staaten.

@@ -1,10 +1,6 @@
 ---
-
 title: An alle Mitglieder und Förderer der Deutschen Monte Cassino Vereinigung und der Deutschen Monte Cassino Stiftung
-
-
 layout: post
-
 permalink: /an-alle-mitglieder-und-forderer-der-deutschen-monte-cassino-vereinigung-und-der-deutschen-monte-cassino-stiftung/
 category:
   - Monte Cassino

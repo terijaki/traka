@@ -6,7 +6,7 @@ title: 65-jähriges Gedenken an die Schlacht um Monte Cassino
 layout: post
 
 permalink: /65-jahriges-gedenken-an-die-schlacht-um-monte-cassino/
-thumbnail: /upload/cr01-940x198.jpg
+thumbnail: /upload/cr01.jpg
 category:
   - Monte Cassino
   - Presseartikel

@@ -6,7 +6,7 @@ title: Einladung zum Sommerfest 2013
 layout: post
 
 permalink: /einladung-zum-sommerfest-2013/
-thumbnail: /upload/2013/06/20130604-113111-940x198.jpg
+thumbnail: /upload/2013/06/20130604-113111.jpg
 category:
   - Allgemeines
 tags:

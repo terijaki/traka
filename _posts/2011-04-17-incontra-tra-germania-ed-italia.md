@@ -1,12 +1,8 @@
 ---
-
 title: Incontra tra Germania ed Italia
-
-
 layout: post
-
 permalink: /incontra-tra-germania-ed-italia/
-thumbnail: /upload/013-940x198.jpg
+thumbnail: /upload/013.jpg
 category:
   - Monte Cassino
   - Presseartikel
@@ -22,7 +18,7 @@ tags:
   - Signor Krug
 
 ---
-<a href="/upload/013.jpg"><img class="wp-image-254" title="01" src="/upload/013-261x300.jpg" alt="" width="261" height="300" /></a>Nel cassinate i veterani di un'associazione che promuove il dialogo
+Nel cassinate i veterani di un'associazione che promuove il dialogo
 
 Anche questo anno sono tornati i veterani tedeschi per visitare la Valle del Liri.
 L'Associazione DMCV (Associazione Tedesca per Monte Cassino) pone l'attenzione alla memoria ed è molto attiva in particolare nel creare rapporti di amicizi con gli abitanti del territorio. Gli ospiti giunti dalla Germania hanno soggiornato in un noto albergo di Cassino ed hanno approfittato per visitare i Sacrari Militari del territorio per onorare i caduti di tutte le nazioni.

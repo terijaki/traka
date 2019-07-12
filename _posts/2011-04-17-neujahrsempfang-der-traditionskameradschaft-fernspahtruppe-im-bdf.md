@@ -1,12 +1,8 @@
 ---
-
 title: Neujahrsempfang der Traditionskameradschaft Fernspähtruppe im BDF
-
-
 layout: post
-
 permalink: /neujahrsempfang-der-traditionskameradschaft-fernspahtruppe-im-bdf/
-thumbnail: /upload/0119-550x198.jpg
+thumbnail: /upload/0119.jpg
 category:
   - Veranstaltungen
 tags:
@@ -26,8 +22,6 @@ Frieder Endres überreichte 3 weiße, lederne Stulpenhandschuhe für die Fahnent
 
 Der Kameradschaftsabend wurde von Hans Gelhaar und Jürgen Büttner gestaltet. Er hatte den Schwerpunkt auf mediterrane Melodien gelegt zu Ehren der italienischen Gäste . Die ließen es sich nicht nehmen, kräftig mitzusingen und mitzufeiern. Sektempfang, Mittagsimbiß, Kaffeegedeck mit selbstgebackenem Kuchen und das abendliche „Bayrische Buffet“ sorgten für das leibliche Wohlbefinden. Ernst Krug rief allen Kameraden zum Schluß ein herzliches „Glück ab“ zu.
 
-<a href="/upload/0119.jpg"><img class="alignnone wp-image-508" title="Neujahrsempfang im Traditionsraum" src="/upload/0119-300x225.jpg" alt="" height="225" /></a> <a href="/upload/0211.jpg"><img class="alignnone wp-image-509" title="v.l. Ernst Krug, Sign. Colonello &amp; Msgr. Hermann Völk" src="/upload/0211-300x225.jpg" alt="" height="225" /></a>
-
 TERMINE:
 &gt;JHV 17.04.2010 in Herborn „ Hotel Gutshof „
 &gt;Fahrt zum Gedenktag nach Monte Cassino am 19.05.
@@ -38,3 +32,6 @@ oder Ernst Krug , Tel./Fax 06635/7516, eMail: museumsopa@t-online.de
 
 Internet: traka-fernspaehtruppe.de
 Spendenkonto: KtoNr. 100 430 1, BLZ 516 915 00, Volksbank Herborn
+
+
+[![](/upload/0211.jpg)](/upload/0211.jpg)

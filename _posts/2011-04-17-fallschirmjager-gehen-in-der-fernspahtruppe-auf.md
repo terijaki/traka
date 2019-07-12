@@ -1,12 +1,8 @@
 ---
-
 title: Fallschirmjäger gehen in der Fernspähtruppe auf
-
-
 layout: post
-
 permalink: /fallschirmjager-gehen-in-der-fernspahtruppe-auf/
-thumbnail: /upload/za018-940x198.jpg
+thumbnail: /upload/za018.jpg
 category:
   - Presseartikel
 tags:
@@ -22,7 +18,7 @@ tags:
   - Standort Herborn
 
 ---
-<a href="/upload/za018.jpg"><img class="wp-image-202" title="za01" src="/upload/za018-300x126.jpg" alt="" height="126" /></a>Fahnenbandübergabe besiegelt in Herborn die Auflösung
+Fahnenbandübergabe besiegelt in Herborn die Auflösung
 
 Herborn(red). Die Fallschirmjäger-Kameradschaft Dillenburg existiert nicht mehr. Ihre Mitglieder wechseln nach den Worten ihres bisherigen Leiters Karl Schramm zur Traditionskameradschaft (TraKa) Fernspähtruppe im Bund Deutscher Fallschirmjäger, von der 80 Mitglieder zur Hauptversammlung an ihren ehemaligen Standort Herborn waren. Die Fernspähtruppe 300 war von Ende der 60er bis Ende der 70er Jahre in der damaligen Aartalkasserne in Herbornseelbach stationiert.
 

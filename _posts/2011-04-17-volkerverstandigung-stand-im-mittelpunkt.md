@@ -1,12 +1,8 @@
 ---
-
 title: Völkerverständigung stand im Mittelpunkt
-
-
 layout: post
-
 permalink: /volkerverstandigung-stand-im-mittelpunkt/
-thumbnail: /upload/011-940x198.jpg
+thumbnail: /upload/011.jpg
 category:
   - Presseartikel
 tags:
@@ -23,7 +19,7 @@ tags:
   - Willi Weixler
 
 ---
-<a href="/upload/011.jpg"><img class="wp-image-246" title="01" src="/upload/011-300x290.jpg" alt="" height="290" /></a>Ehemalige Fallschirmjäger (Fernspäher) trafen sich zum Neujahrsempfang
+Ehemalige Fallschirmjäger (Fernspäher) trafen sich zum Neujahrsempfang
 
 Homberg-Erbenhausen (pm). Auch dieses Jahr wieder hatte Ernst Krug, Vorsitzender der Soldatenkameradschaft “Fernspäher“, ehemalige Fallschirmjäger zum Neujahrsempfang eingeladen. 74 Teilnehmer aus Italien, Österreich, den verschiedenen Bundesländern und dem Vogelsbergkreis waren der Einladung gefolgt.
 

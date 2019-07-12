@@ -1,12 +1,8 @@
 ---
-
 title: Neujahrsempfang 2009
-
-
 layout: post
-
 permalink: /neujahrsempfang-2009-2/
-thumbnail: /upload/za01-940x198.jpg
+thumbnail: /upload/za01.jpg
 category:
   - Presseartikel
 tags:
@@ -21,9 +17,7 @@ tags:
   - Monte Cassino
 
 ---
-<div>
-
-<a href="/upload/za01.jpg"><img class="wp-image-148" title="Neujahrsempfang 2009" src="/upload/za01-300x248.jpg" alt="" height="248" /></a>Hoher Besuch beim Neujahrsempfang der Traditionskameradschaft Fernspähtruppe im BDF
+Hoher Besuch beim Neujahrsempfang der Traditionskameradschaft Fernspähtruppe im BDF
 
 Der Präsident des BDF, General a.D. Georg Bernhardt persönlich war zu Gast beim Neujahrsempfang der TraKa FeSpähTrp am 17.01.09 im Traditionsraum in Homberg- Erbenhausen. In seinem Grußwort betonte er, dass die Fernspäher schon immer etwas besonderes waren und bis heute Individualisten mit besonderer Prägung geblieben sind.
 
@@ -43,5 +37,4 @@ Zum Abschluß stellte Joseph (Jupp) Klein, langjähriger 1.Vorsitzender der Mont
 
 Mit dem Lied der Fallschirmjäger schloß der offizielle Teil des Neujahrsempfangs. Zum Kaffee hatten die Frauen selbstgebackene Kuchen und Torten bereitgestellt. Bis zum gemeinsamen Abendessen und noch lange darüber hinaus saß man in geselliger Runde zusammen.
 
-</div>
 &nbsp;

@@ -1,12 +1,8 @@
 ---
-
 title: Ehemalige Fernspäher am Montecassino
-
-
 layout: post
-
 permalink: /ehemalige-fernspaher-am-montecassino/
-thumbnail: /upload/za015-804x198.jpg
+thumbnail: /upload/za015.jpg
 category:
   - Monte Cassino
   - Presseartikel
@@ -19,7 +15,7 @@ tags:
   - Karl Schramm
 
 ---
-<a href="/upload/za015.jpg"><img class="wp-image-192" title="za01" src="/upload/za015-133x300.jpg" alt="" /></a>Gräber mahnen zur Versöhnung
+Gräber mahnen zur Versöhnung
 
 Herborn – Seelbach
 Die Albaner Berge und Montecassino haben jetzt 18 Mitglieder der Traditionskameradschaft Fernspähtruppe gemeinsam mit Kameraden aus Baden- Württemberg besucht. Die Besucher waren ebenso beeindruckt von der herrlichen Bergwelt mit dem alles überragenden Kloster wie von der schrecklichen Vergangenheit des Ortes, der 1943/44 die Schlüsselstellung der „Gustav-Linie“ südöstlich von Rom war: Hier kämpften Soldaten aus 28 Nationen, mehr als 107.000 fanden den Tod.
