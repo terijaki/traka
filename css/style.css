@@ -249,4 +249,7 @@ body {
     background: #2c2e4c;
     border-top: 2px #0f5c3c solid;
   }
+  .social-icons {
+    padding: 4px 0;
+  }
 }
