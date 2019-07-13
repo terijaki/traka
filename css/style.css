@@ -180,11 +180,6 @@ body {
 
 
 /* --- Mobile View --- */
-@media only screen and (max-width: 992px) {
-  #nav-menu-container ul li {
-    font-size: 1.4rem;
-  }
-}
 @media only screen and (max-width: 768px) {
   #wrapper, body, html {
     width: 100vw;
@@ -241,6 +236,7 @@ body {
   #main section > div {
     width: 96%;
     margin: auto;
+    padding-bottom: 30px;
   }
   #header .social-icons {
     display: none;
