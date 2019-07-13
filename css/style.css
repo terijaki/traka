@@ -244,4 +244,9 @@ body {
   #header .social-icons {
     display: none;
   }
+  #footer {
+    display: block;
+    background: #2c2e4c;
+    border-top: 2px #0f5c3c solid;
+  }
 }
