@@ -191,7 +191,8 @@ body {
     background: #fcf9f6;
   }
   #header div.container {
-    height: 80px;
+    height: initial;
+    min-height: 64px;
     width: 100%;
     position: sticky;
     top: 0;
@@ -201,6 +202,7 @@ body {
     border-right: none;
     border-bottom: 2px #0f5c3c solid;
     padding: 0;
+    margin-bottom: 10px;
   }
   #traka-logo {
     left: 6px;
@@ -210,21 +212,24 @@ body {
     width: 100vw
   }
   #nav-menu-container ul {
-    position: absolute;
-    right: 0;
+    position: relative;
+    left: 74px;
     width: calc(100% - 74px);
     margin: 0;
     padding: 0;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
   }
   #nav-menu-container ul li {
     display: inline-block;
     background: none;
     font-size: 1.2rem;
+    text-align: center;
   }
   #nav-menu-container ul li a {
     padding: 3px 8px;
   }
-  #nav-menu-container a[href="/"], #nav-menu-container a[href*="dmcv.de"] {
+  #nav-menu-container ul li.no-mobile {
     display: none;
   }
   #main > div.container {
