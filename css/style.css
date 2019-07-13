@@ -68,11 +68,11 @@ body {
 #nav-menu-container ul li:not(.active):hover {
   background: #0f5c3c;
 }
-#header .social-icons {
+.social-icons {
   text-align: center;
   padding: 20px 0;
 }
-#header .social-icons a {
+.social-icons a {
   color: #fff;
   padding: 4px;
   width: 2rem;
@@ -80,7 +80,7 @@ body {
   display: inline-block;
   text-align: center;
 }
-#header .social-icons a:hover {
+.social-icons a:hover {
   color: #2c2e4c;
   background: #fff;
 }
