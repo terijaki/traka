@@ -188,7 +188,7 @@ body {
 @media only screen and (max-width: 768px) {
   #wrapper, body, html {
     width: 100vw;
-    background: #fcf9f6;
+    background: linear-gradient(120deg,#FFFFFF,#F9F4EF);
   }
   #header div.container {
     height: initial;
@@ -209,7 +209,8 @@ body {
     zoom: 0.5;
   }
   #nav-menu-container {
-    width: 100vw
+    width: 100vw;
+    background: transparent;
   }
   #nav-menu-container ul {
     position: relative;
