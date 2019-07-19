@@ -8,12 +8,28 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: textarea
-  name: permalink
-  label: permalink
-- type: list
-  name: category
+  hidden: true
+  config:
+    required: true
+  default: page
+- name: category
+  type: select
+  default: Allgemeines
+  config:
+    required: true
+    options:
+    - Veranstalungen
+    - Monte Cassino
+    - Allgemeines
+    - Presseartikel
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: category
-- type: list
-  name: tags
-  label: tags
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: thumbnail
