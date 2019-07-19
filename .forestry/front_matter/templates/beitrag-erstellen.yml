@@ -1,0 +1,19 @@
+---
+label: Beitrag erstellen
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: permalink
+  label: permalink
+- type: list
+  name: category
+  label: category
+- type: list
+  name: tags
+  label: tags
