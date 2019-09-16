@@ -33,6 +33,4 @@ Einigkeit herrscht auch an dem Punkt, wo man aus der Vergangenheit für eine bes
 
 _Uta Lederer-Hensel, Kai Michael Horst, Wolfgang Eberl_
 
-![](/upload/2019/09/16/02.jpg)
-
-![](/upload/2019/09/16/03.jpg)![](/upload/2019/09/16/04.jpg)![](/upload/2019/09/16/05.JPG)![](/upload/2019/09/16/06.jpg)![](/upload/2019/09/16/07.jpg)![](/upload/2019/09/16/08.jpg)![](/upload/2019/09/16/09.jpg)![](/upload/2019/09/16/10.jpg)
+![](/upload/2019/09/16/02.jpg)![](/upload/2019/09/16/03.jpg)![](/upload/2019/09/16/04.jpg)![](/upload/2019/09/16/05.JPG)![](/upload/2019/09/16/06.jpg)![](/upload/2019/09/16/07.jpg)![](/upload/2019/09/16/08.jpg)![](/upload/2019/09/16/09.jpg)![](/upload/2019/09/16/10.jpg)
