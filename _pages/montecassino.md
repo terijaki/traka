@@ -8,11 +8,10 @@ Im Juli 1943 hatten alliierte Streitkräfte mit der Landung in Sizilien erstmals
 Heute zieht das neu errichtete Kloster schon von weitem die Blicke der Besucher auf sich und zu seinen Füßen reihen sich die Soldatenfriedhöfe. 107.000 Gefallene aus 32 Nationen ruhen hier, künden von der Sinnlosigkeit des Krieges und mahnen zum Frieden. Hier treffen sich wenig Überlebende, die Angehörigen der Gefallenen und Jugendgruppen aus damaligen beteiligten Ländern.
 Aus Deutschland kümmert sich die Deutsche Monte Cassino Vereinigung ( DMCV) um die Wahrung des Andenkens und den Erhalt der Gedenkstätten. Sie wurde bereits kurz nach dem Krieg von Oberst Bäumler gegründet, der an alles 4 Schlachten teilgenommen hatte und wird seit 1975 von Joseph Klein geleitet, der als Leutnant an den Kämpfen um Monte Cassino teilgenommen hatte. Vor 3 Jahren, also 2005 gründete Joseph Klein zusammen mit Richard Hartinger, dessen Vater in Monte Cassino ruht, noch die Monte Cassino Stiftung, die vor allem finanzielle Unterstützung leistet und so u.a. die Treffen von Jugendgruppen aus Ländern der ehemaligen Kriegsgegner fördert.
 
-<!--&nbsp;
+<hr>
 
+<!--
 **Beiträge anzeigen**: <a href="/montecassino-artikel/">Monte Cassino</a>
-
-&nbsp;
 --!>
 
 <section id="news">
