@@ -10,6 +10,6 @@ Aus Deutschland kümmert sich die Deutsche Monte Cassino Vereinigung ( DMCV) um 
 
 &nbsp;
 
-**Beiträge**: <a href="/montecassino-artikel/">Monte Cassino</a>
+**Beiträge anzeigen**: <a href="/montecassino-artikel/">Monte Cassino</a>
 
 &nbsp;
