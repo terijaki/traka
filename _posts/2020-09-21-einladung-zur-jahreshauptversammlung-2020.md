@@ -47,4 +47,4 @@ Der Vorstand freut sich auf Ihr/Euer Erscheinen in „Jantoscas Halle 17“ in H
 
 Horrido und „Glück ab“!
 
-Kai Michael Horst
+_Kai Michael Horst_
