@@ -23,17 +23,6 @@ Fax 09421 703884<br>
 
 <hr />
 
-<strong>3. Kameradschaftsleiter</strong><br>
-(Geschäftsführer)<br>
-Egon Panz<br>
-Treppenweg 2<br>
-35644 Hohenahr<br>
-Tel.: 06444/931075<br>
-e-Mail: panzegon@t-online.de<br>
-Mobil: 0151 20188189<br>
-
-<hr />
-
 <strong>Kameradenkreis - Süd</strong><br>
 Eric Brandecker<br>
 e-Mail: eric.brandecker@t-online.de<br>
