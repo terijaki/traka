@@ -8,7 +8,7 @@ layout: page
 <p><strong>Geschäftsstelle:</strong><br />Treppenweg 2<br />35644 Hohenahr</p>
 <p><strong>Domain:</strong><br />traka-fernspaehtruppe.de</p>
 <p><strong>Eingetragen im Vereinsregister:</strong><br />Registergericht: 35578 Wetzlar.Registerblatt:VR 4025</p>
-<p><strong>Vertretungsberechtigte:</strong><br />1. Kameradschaftsleiter Kai Michael Horst<br />2. Kameradschaftsleiter Eberl Wolfgang<br />3. Kameradschaftsleiter Egon Panz</p>
+<p><strong>Vertretungsberechtigte:</strong><br />1. Kameradschaftsleiter Kai Michael Horst<br />2. Kameradschaftsleiter Eberl Wolfgang</p>
 <p><strong>Inhaltlich Verantwortlicher gemäß § 6 MDStV (Mediendienstestaatsvertrag):</strong><br />Kai Michael Horst</p>
 <p><strong>Administration der Webseite:</strong><br />Björn Kohnen<br />Email: webmaster@traka-fernspaehtruppe.de</p>
 <p> </p>
