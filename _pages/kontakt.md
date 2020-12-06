@@ -26,8 +26,6 @@ Fax 09421 703884<br>
 <strong>Kameradenkreis - Süd</strong><br>
 Eric Brandecker<br>
 e-Mail: eric.brandecker@t-online.de<br>
-Anton Lux<br>
-Email: anton.lux@arcor.de<br>
 
 <hr />
 
