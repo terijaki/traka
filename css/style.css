@@ -1,0 +1,252 @@
+html, body {
+  background: #ccc;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Droid Sans', arial, sans-serif;
+  cursor: default;
+}
+html{
+  font-size: 62.5%; /* 62.5% of 16px = 10px */
+}
+body {
+  font-size: 1.4rem;
+}
+#wrapper {
+  width: 960px;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+/* --- Header --- */
+#header div.container {
+  background: #2c2e4c;
+  height: 100vh;
+  width: 170px;
+  position: fixed;
+  float: left;
+  display: block;
+  border-left: 2px #0f5c3c solid;
+  border-right: 2px #0f5c3c solid;
+  padding: 164px 0 28px 0;
+}
+#traka-logo {
+  background: url(/img/traka_logo.png);
+  height: 183px;
+  width: 146px;
+  position: absolute;
+  top: 0;
+  left: 78px;
+  display: block;
+  cursor: pointer;;
+}
+#nav-menu-container ul {
+  padding: 0;
+}
+#nav-menu-container ul li a {
+  color: #f7e811;
+  padding: 3px 5px 3px 16px;
+  text-decoration: none;
+  display: block;
+}
+#nav-menu-container ul li:hover a {
+  color: #fff;
+}
+#nav-menu-container ul li {
+  line-height: 24px;
+  list-style: none;
+  background: url(/upload/nav_break_main.gif);
+  background-position: bottom;
+  background-repeat: repeat-x;
+}
+#nav-menu-container ul li.active {
+  background: #9a1918;
+}
+#nav-menu-container ul li.active a {
+  color: #ffffff;
+}
+#nav-menu-container ul li:not(.active):hover {
+  background: #0f5c3c;
+}
+.social-icons {
+  text-align: center;
+  padding: 20px 0;
+}
+.social-icons a {
+  color: #fff;
+  padding: 4px;
+  width: 2rem;
+  border-radius: 2px;
+  display: inline-block;
+  text-align: center;
+}
+.social-icons a:hover {
+  color: #2c2e4c;
+  background: #fff;
+}
+
+/* --- Main --- */
+
+#main > div.container {
+  background: linear-gradient(120deg,#FFFFFF,#F9F4EF);
+  background-attachment: fixed;
+  min-height: 100vh;
+  padding: 12px 70px 60px 70px;
+  margin: 0 0 0 172px;
+  font-size: 1.4rem;
+  color: #4c4c4c;
+}
+#main .container img {
+    max-width: 100%;
+}
+#main a {
+  color: #74c126;
+  text-decoration: none;
+}
+#main a:hover {
+  text-decoration: underline;
+}
+#main h4 a {
+  color: #4c4c4c;
+  text-decoration: none;
+}
+#main h4 a:hover, #main .box:hover h4 a {
+  color: #74c126;
+  text-decoration: none;
+}
+#intro .intro-text {
+  text-align: center;
+  border-bottom: 1px dotted #4C4C4C;
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+}
+#news .post {
+  padding: 0px 0px 1px 0px;
+  margin: 25px 0px;
+  border-bottom: 1px dotted #4C4C4C;
+  font-size: 1.4rem;
+  clear: both;
+}
+#news .post h4 {
+  font-size: 2rem;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+#news .thumbnail {
+    width: 100%;
+    height: 16vh;
+    max-height: 140px;
+    display: inline-block;
+    overflow: hidden;
+    margin-bottom: 8px;
+    border-radius: 3px;
+}
+#news .thumbnail div {
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    transition: transform 4s;
+}
+#news .post:hover .thumbnail div {
+    transform: scale(1.05);
+}
+#news .post-excerpt {
+    padding-bottom: 20px;
+    text-align: justify;
+}
+#news .archive-link {
+  text-align: center;
+}
+#news .archive-link a {
+  padding: 7px 13px;
+  background: #2c2e4c;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid #11593d;
+  border-radius: 5px;
+}
+#news .archive-link a:hover {
+  background: #11593d;
+  text-decoration: none;
+}
+#page .post-title {
+    font-size: 2.4rem;
+}
+/* --- Footer --- */
+#footer {
+  display: none;
+}
+
+
+/* --- Mobile View --- */
+@media only screen and (max-width: 768px) {
+  #wrapper, body, html {
+    width: 100vw;
+    background: linear-gradient(120deg,#FFFFFF,#F9F4EF);
+  }
+  #header div.container {
+    height: initial;
+    min-height: 64px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    float: none;
+    display: block;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px #0f5c3c solid;
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  #traka-logo {
+    left: 6px;
+    zoom: 0.5;
+  }
+  #nav-menu-container {
+    width: 100vw;
+    background: transparent;
+  }
+  #nav-menu-container ul {
+    position: relative;
+    left: 74px;
+    width: calc(100% - 74px);
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+  }
+  #nav-menu-container ul li {
+    display: inline-block;
+    background: none;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  #nav-menu-container ul li a {
+    padding: 3px 8px;
+  }
+  #nav-menu-container ul li.no-mobile {
+    display: none;
+  }
+  #main > div.container {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+  }
+  #main section > div {
+    width: 96%;
+    margin: auto;
+    padding-bottom: 30px;
+  }
+  #header .social-icons {
+    display: none;
+  }
+  #footer {
+    display: block;
+    background: #2c2e4c;
+    border-top: 2px #0f5c3c solid;
+  }
+  .social-icons {
+    padding: 4px 0;
+  }
+}

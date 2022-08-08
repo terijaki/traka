@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {% include meta.html %}
+  <!-- Favicons -->
+  <link href="/img/traka_site_icon.png" rel="icon">
+  <link href="/css/style.css" rel="stylesheet">
+  <link href="/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+<div id="wrapper">
+<!--===== Header =====-->
+  <header id="header">
+    <div class="container">
+      <div id="traka-logo" onclick="location.href='/';"></div>
+      <nav id="nav-menu-container">
+        <ul>
+          <li class="no-mobile"><a href="/">Startseite</a></li>
+          {% if page.url == "/ueberuns/" %}<li class="active">{% else %}<li>{% endif %}<a href="/ueberuns/">Über uns</a></li>
+          {% if page.url == "/chronik/" %}<li class="active">{% else %}<li>{% endif %}<a href="/chronik/">Chronik</a></li>
+          {% if page.url == "/veranstaltungen/" or page.category contains "Veranstaltungen" %}<li class="active">{% else %}<li>{% endif %}<a href="/veranstaltungen/">Veranstaltungen</a></li>
+          {% if page.url == "/presseartikel/" or page.category contains "Presseartikel" %}<li class="active">{% else %}<li>{% endif %}<a href="/presseartikel/">Presseartikel</a></li>
+          {% if page.url == "/montecassino/" %}<li class="active">{% else %}<li>{% endif %}<a href="/montecassino/">Monte Cassino</a></li>
+          {% if page.url == "/kontakt/" %}<li class="active">{% else %}<li>{% endif %}<a href="/kontakt/">Kontakt</a></li>
+          <!--<li><a href="/upload/2011/04/Aufnahmeantrag.pdf" target="_blank">Aufnahmeantrag</a></li>-->
+          <li><a href="/archiv/">Archiv</a></li>
+          {% if page.url == "/impressum/" %}<li class="active">{% else %}<li>{% endif %}<a href="/impressum/">Impressum</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+      <div class="social-icons">
+        <a href="https://www.facebook.com/TraKa.FST/" target="_blank" title="Die TraKa auf Facebook!"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/search?q=traditionskameradschaft%20fernsp%C3%A4htruppe" target="_blank" title="Die TraKa auf Twitter!"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </header>
+<!--===== #header =====-->
+<main id="main">
+  <div class="container">
+  {{ content }}
+</div>
+</main>
+<!--===== Footer =====-->
+  <footer id="footer">
+    <div class="container">
+      <div class="social-icons">
+        <a href="https://www.facebook.com/TraKa.FST/" target="_blank" title="Die TraKa auf Facebook!"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/search?q=traditionskameradschaft%20fernsp%C3%A4htruppe" target="_blank" title="Die TraKa auf Twitter!"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </footer>
+<!--===== #footer =====-->
+</div>
+</body>
+</html>

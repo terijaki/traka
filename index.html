@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<section id="intro">
+  <div class="intro-text">
+    <h2>Willkommen bei der Traditionskameradschaft Fernspähtruppe!</h2>
+    <img src="upload\2011\04\fallschirmspringer23.jpg" width="100%">
+    <p>Wir halten zusammen,<br>wir ehren das Alte,<br>wir wagen das Neue!</p>
+    <h3>Fallschirmjäger und Fernspäher rufen Dich!</h3>
+    <p>Unser Leitwort:<br>Es gibt niemals eine Kameradschaft auf Zeit.<br>Sie währet ein Leben lang,<br>oder sie war keine echte.</p>
+    <p>Bleibt Eurer Truppe treu<br>und werdet Mitglied<br>in unserer Traditionskameradschaft!</p>
+    <img style="opacity:0.5; filter:alpha(opacity=50);" title="flieger" src="/upload/flieger.png" />
+  </div>
+</section>
+
+<!--===== News (Blog Posts) =====-->
+<section id="news">
+  <div class="container">
+    <div class="row newsposts">
+      {% for post in site.posts limit:5 %}
+      <div class="post">
+        <div class="box" onclick="location.href='{{ post.url }}';">
+          <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          {% if post.thumbnail != "" %}
+          <a class="thumbnail" href="{{ post.url }}"><div style="background-image:url({{ post.thumbnail }})"></div></a>
+          {% endif %}
+          <div class="post-content">{{ post.content }}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="archive-link">
+      <a href="/archiv/">alle Beiträge anzeigen</a>
+    </div>
+    </div>
+</section>

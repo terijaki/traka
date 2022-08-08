@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<!--===== Post =====-->
+<section>
+  <div id="blogpost">
+    <div class="container">
+      <article class="post">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <p class="post-text">{{ page.date | date: "%d.%m.%Y" }}</p>
+        {% if page.thumbnail %}<a href="{{ page.thumbnail }}"><img class="post-thumbnail" src="{{ page.thumbnail }}" alt=""></a>{% endif %}
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+     </div>
+    </div>
+  </section>
+<!--===== #post =====-->
